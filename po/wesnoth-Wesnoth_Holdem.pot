@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-01-01 19:23+0100\n"
+"POT-Creation-Date: 2006-03-13 13:59+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./Wesnoth_Holdem/scenarios/holdem-intro.cfg:5 ./Wesnoth_Holdem.cfg:8
+#: ./Wesnoth_Holdem.cfg:8 ./Wesnoth_Holdem/scenarios/holdem-intro.cfg:5
 msgid "Wesnoth Hold'em"
 msgstr ""
 
@@ -26,7 +26,7 @@ msgstr ""
 msgid "&human-queen.png=Easy;*&warrior-king.png=Normal;&elvish-sylph.png=Hard"
 msgstr ""
 
-#: ./Wesnoth_Holdem/units/Holdem_Horse.cfg:4 ./Wesnoth_Holdem/scenarios/holdem-game.cfg:19
+#: ./Wesnoth_Holdem/scenarios/holdem-game.cfg:19 ./Wesnoth_Holdem/units/Holdem_Horse.cfg:4
 msgid "Holdem Horse"
 msgstr ""
 
