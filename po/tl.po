@@ -61,7 +61,7 @@ msgstr ""
 
 #: Wesnoth_Holdem/scenarios/holdem-game.cfg:883
 msgid "Quit"
-msgstr ""
+msgstr "Umalis"
 
 #: Wesnoth_Holdem/scenarios/holdem-game.cfg:898
 msgid "I have |$gambler[0].hand_text|. It's my bet."
@@ -665,3 +665,356 @@ msgstr ""
 #: Wesnoth_Holdem/units/Two_Spades.cfg:15
 msgid "Two of Spades"
 msgstr ""
+
+#~ msgid "File"
+#~ msgstr "Fayl"
+
+#~ msgid "Edit"
+#~ msgstr "Edit"
+
+#~ msgid "Settings"
+#~ msgstr "Setings"
+
+#~ msgid "Draw tiles"
+#~ msgstr "Ilagay ang tiles"
+
+#~ msgid "Fill"
+#~ msgstr "Punuuin"
+
+#~ msgid "Set player's starting position"
+#~ msgstr "Ilagay kung saan ang posisyon ng manlalaro"
+
+#~ msgid "Zoom in"
+#~ msgstr "Palakihin ang nakikita"
+
+#~ msgid "Zoom out"
+#~ msgstr "Paliitin ang nakikita"
+
+#~ msgid "Undo"
+#~ msgstr "Huwag gawin ang pinakabagong nagawa"
+
+#~ msgid "Redo"
+#~ msgstr "Gawin ulit"
+
+#~ msgid "Zoom to default view"
+#~ msgstr "Ibalik sa karaniwang laki"
+
+#~ msgid "Toggle grid"
+#~ msgstr "Ipakita ang mga linya"
+
+#~ msgid "Resize the map"
+#~ msgstr "Palakihin o paliitin ang mapa"
+
+#~ msgid "Flip map"
+#~ msgstr "Baliktarin ang mapa"
+
+#~ msgid "Language"
+#~ msgstr "Wika"
+
+#~ msgid "Choose your preferred language:"
+#~ msgstr "Pumili ng wika ayon sa iyong kagustuhan:"
+
+#~ msgid "Battle for Wesnoth Map Editor"
+#~ msgstr "Battle for Wesnoth Map Editor"
+
+#~ msgid "Save the Map As"
+#~ msgstr "I-seyb ang mapa sa ibang pangalan"
+
+#~ msgid "The map already exists. Do you want to overwrite it?"
+#~ msgstr "Ang mapang ito ay dati pa dito. Baguhin ito?"
+
+#~ msgid "Player"
+#~ msgstr "Manlalaro"
+
+#~ msgid "Which Player?"
+#~ msgstr "Alin sa mga manlalaro?"
+
+#~ msgid "Which player should start here?"
+#~ msgstr "Alin sa mga manlalaro ang magsisimula dito?"
+
+#~ msgid "Choose a Map to Load"
+#~ msgstr "Pumili ng mapa para buksan"
+
+#~ msgid ""
+#~ "Warning: Illegal characters found in the map name. Please save under a "
+#~ "different name."
+#~ msgstr ""
+#~ "Paalala: May mga ilegal na karakters sa pangalan ng mapa. Paki-seyb ito "
+#~ "sa ibang pangalan."
+
+#~ msgid "The file does not contain a valid map."
+#~ msgstr "Ang fayl ay hindi isang ganap na mapa."
+
+#~ msgid "'$filename' does not exist or can not be read as a file."
+#~ msgstr "'$filename' ay hindi makita o hindi mabasa bilang isang fayl."
+
+#~ msgid "Load failed: "
+#~ msgstr "Hindi nabuksan:"
+
+#~ msgid "You must have a hex selected on the board."
+#~ msgstr "Dapat ay may napili kang hex sa bord."
+
+#~ msgid "Quit Editor"
+#~ msgstr "Umalis sa editor"
+
+#~ msgid "Do you want to save the map before quitting?"
+#~ msgstr "Gusto mo bang i-seyb ang mapa bago isarado ito?"
+
+#~ msgid "Map saved."
+#~ msgstr "Ang mapa ay na-seyb na."
+
+#~ msgid "Could not save the map: $msg"
+#~ msgstr "Hindi ma-seyb ang mapang: $msg"
+
+#~ msgid "Error: Illegal character in filename."
+#~ msgstr "Error: May ilegal na karakter sa faylneym."
+
+#~ msgid "Your modifications to the map will be lost. Continue?"
+#~ msgstr "Ang mga pagbabagong isinagawa sa mapa ay mawawala. Ituloy?"
+
+#~ msgid "Create New Map"
+#~ msgstr "Gumawa ng Bagong Mapa"
+
+#~ msgid "Width:"
+#~ msgstr "Haba:"
+
+#~ msgid "Height:"
+#~ msgstr "Taas:"
+
+#~ msgid "FG"
+#~ msgstr "FG"
+
+#~ msgid "BG"
+#~ msgstr "BG"
+
+#~ msgid "Unit List"
+#~ msgstr "Lista ng mga Yunit"
+
+#~ msgid "Quit Game"
+#~ msgstr "Umalis sa Laro"
+
+#~ msgid "Set Label"
+#~ msgstr "I-set ang Tanda"
+
+#~ msgid "Clear Labels"
+#~ msgstr "Tanggalin ang mga Tanda"
+
+#~ msgid "Show Enemy Moves"
+#~ msgstr "Ipakita ang Galaw ng Kalaban"
+
+#~ msgid "Best Possible Enemy Moves"
+#~ msgstr "Ang posibleng Pinakamahusay na Galaw ng Kalaban"
+
+#~ msgid "Play"
+#~ msgstr "Laro"
+
+#~ msgid "Stop"
+#~ msgstr "Hinto"
+
+#~ msgid "Next Turn"
+#~ msgstr "Ang kasunod na Turno"
+
+#~ msgid "Next Side"
+#~ msgstr "Ang kasunod na Dako"
+
+#~ msgid "Fog"
+#~ msgstr "Ulap na hamog"
+
+#~ msgid "Skip animation"
+#~ msgstr "Laktawan ang mga pinapakitang gumagalaw"
+
+#~ msgid "New Map"
+#~ msgstr "Bagong Mapa"
+
+#~ msgid "Load Map"
+#~ msgstr "Buksan ang Mapa"
+
+#~ msgid "Save Map"
+#~ msgstr "I-seyb ang Mapa"
+
+#~ msgid "Save As"
+#~ msgstr "I-seyb As"
+
+#~ msgid "Flood Fill"
+#~ msgstr "Dagsahang Pagpupuno"
+
+#~ msgid "Fill Selection"
+#~ msgstr "Punuin ang Napili"
+
+#~ msgid "Cut"
+#~ msgstr "Putulin"
+
+#~ msgid "Copy"
+#~ msgstr "Kopyahin"
+
+#~ msgid "Paste"
+#~ msgstr "Idikit"
+
+#~ msgid "Flip Map"
+#~ msgstr "Baliktarin ang Mapa"
+
+#~ msgid "Select All"
+#~ msgstr "Piliin Lahat"
+
+#~ msgid "Draw Terrain"
+#~ msgstr "Gumuhit ng Tereyn"
+
+#~ msgid "Refresh Image Cache"
+#~ msgstr "I-refresh ang Larawan"
+
+#~ msgid "Continue Move"
+#~ msgstr "Ipagpatuloy ang Galaw"
+
+#~ msgid "Speak to Ally"
+#~ msgstr "Magsalita sa Kakampi"
+
+#~ msgid "Speak to All"
+#~ msgstr "Magsalita sa Lahat"
+
+#~ msgid "Help"
+#~ msgstr "Tulong"
+
+#~ msgid "Enter user command"
+#~ msgstr "Ilagay ang utos"
+
+#~ msgid "Change the language"
+#~ msgstr "Palitan ang wika"
+
+#~ msgid "Do you really want to quit?"
+#~ msgstr "Gusto niyo ba talagang umalis?"
+
+#~ msgid "Map Generator"
+#~ msgstr "Tagatubo ng Mapa"
+
+#~ msgid "Players:"
+#~ msgstr "Mga manlalaro:"
+
+#~ msgid "Number of Hills:"
+#~ msgstr "Numero ng mga Burol:"
+
+#~ msgid "Max Hill Size:"
+#~ msgstr "Ang pinakamalaking sukat ng Burol:"
+
+#~ msgid "Villages:"
+#~ msgstr "Mga Nayon:"
+
+#~ msgid "Coastal"
+#~ msgstr "baybaying dagat"
+
+#~ msgid "Island"
+#~ msgstr "isla"
+
+#~ msgid "player"
+#~ msgstr "manlalaro"
+
+#~ msgid ""
+#~ "The video mode could not be changed. Your window manager must be set to "
+#~ "16 bits per pixel to run the game in windowed mode. Your display must "
+#~ "support 1024x768x16 to run the game full screen."
+#~ msgstr ""
+#~ "Ang pagali ng video ay hindi maaaring palitan. Ang window maneyger ay "
+#~ "dapt nakatakda sa 16-bits per pixel upang ang iyong laro ay makakatakbo "
+#~ "sa pagali na windowed. Ang iyong pakita ay dapat may suporta sa pagali na "
+#~ "1024x768x16 upang makakatakbo ang laro sa fullscreen."
+
+#~ msgid "Accelerated Speed"
+#~ msgstr "Pinabilis na Tulin"
+
+#~ msgid "Skip AI Moves"
+#~ msgstr "Laktawan ang Galaw ng AI"
+
+#~ msgid "Show Lobby Joins"
+#~ msgstr "Ipakita ang sumasali sa patayuan"
+
+#~ msgid "Turn Dialog"
+#~ msgstr "Dayalog ng Turno"
+
+#~ msgid "Turn Bell"
+#~ msgstr "Batingaw ng turno"
+
+#~ msgid "Theme"
+#~ msgstr "Tema"
+
+#~ msgid "Sound effects"
+#~ msgstr "Epeks ng ingay"
+
+#~ msgid "Music"
+#~ msgstr "Musika"
+
+#~ msgid "Music Volume:"
+#~ msgstr "Lakas ng Musika:"
+
+#~ msgid "SFX Volume:"
+#~ msgstr "Lakas ng SFX:"
+
+#~ msgid "Gamma:"
+#~ msgstr "Gamma:"
+
+#~ msgid "Sound effects on/off"
+#~ msgstr "Epeks ng ingay on/of"
+
+#~ msgid "Change the sound effects volume"
+#~ msgstr "Palitan ang lakas ng epeks ng ingay"
+
+#~ msgid "Music on/off"
+#~ msgstr "Musika on/of"
+
+#~ msgid "Change the music volume"
+#~ msgstr "Palitan ang lakas ng musika"
+
+#~ msgid "Make units move and fight faster"
+#~ msgstr "Bilisan ang paggalaw at pakikidigma ng isang yunit"
+
+#~ msgid "Do not animate AI units moving"
+#~ msgstr "Huwag ipakita ang paggalaw ng mga yunits ng kalaban na kompyuter"
+
+#~ msgid "Choose whether the sun moves left-to-right or right-to-left"
+#~ msgstr ""
+#~ "Pumili kung nais niyong gumalaw ang araw mula kaliwa patungong kanan o "
+#~ "kanan patungong kaliwa"
+
+#~ msgid "Use graphical special effects (may be slower)"
+#~ msgstr "Gamitin ang mga espesyal na epeks (maaaring maging mahina)"
+
+#~ msgid "yes"
+#~ msgstr "oo"
+
+#~ msgid "no"
+#~ msgstr "hindi"
+
+#~ msgid "Choose Resolution"
+#~ msgstr "Pumili ng Resolusyon"
+
+#~ msgid "Action"
+#~ msgstr "Aksyon"
+
+#~ msgid "Saved Theme Preference: "
+#~ msgstr "Ang naka-seyb na Piniling Tema:"
+
+#~ msgid "New theme will take effect on next new or loaded game."
+#~ msgstr "Ang bagong tema ay magkakaroon ng epekto sa susunod na laro."
+
+#~ msgid "No known themes.  Try changing from within an existing game."
+#~ msgstr ""
+#~ "Walang nakilalang tema. Subukan muli habang ang isang laro ay tumatakbo."
+
+#~ msgid "Error"
+#~ msgstr "Eror"
+
+#~ msgid "Yes"
+#~ msgstr "Oo"
+
+#~ msgid "No"
+#~ msgstr "Hindi"
+
+#~ msgid "Close"
+#~ msgstr "Isara"
+
+#~ msgid "KB"
+#~ msgstr "KB"
+
+#~ msgid "Delete File"
+#~ msgstr "Burahin ang Fayl"
+
+#~ msgid "Deletion of the file failed."
+#~ msgstr "Ang pagbubura ng fayl ay hindi natuloy."

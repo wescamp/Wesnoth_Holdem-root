@@ -63,7 +63,7 @@ msgstr ""
 
 #: Wesnoth_Holdem/scenarios/holdem-game.cfg:883
 msgid "Quit"
-msgstr ""
+msgstr "Изађи"
 
 #: Wesnoth_Holdem/scenarios/holdem-game.cfg:898
 msgid "I have |$gambler[0].hand_text|. It's my bet."
@@ -667,3 +667,3093 @@ msgstr ""
 #: Wesnoth_Holdem/units/Two_Spades.cfg:15
 msgid "Two of Spades"
 msgstr ""
+
+#, fuzzy
+#~ msgid "heals +4"
+#~ msgstr "лечи"
+
+#, fuzzy
+#~ msgid "heals +8"
+#~ msgstr "лечи"
+
+#~ msgid "cures"
+#~ msgstr "исцељује"
+
+#~ msgid "regenerates"
+#~ msgstr "регенерише"
+
+#~ msgid "steadfast"
+#~ msgstr "?прибрз?"
+
+#~ msgid "leadership"
+#~ msgstr "вођство"
+
+#~ msgid "skirmisher"
+#~ msgstr "борац"
+
+#~ msgid "illuminates"
+#~ msgstr "осветљава"
+
+#~ msgid "teleport"
+#~ msgstr "телепорт"
+
+#~ msgid "ambush"
+#~ msgstr "заседа"
+
+#~ msgid "nightstalk"
+#~ msgstr "ноћна невидљивост"
+
+#~ msgid "submerge"
+#~ msgstr "утопити се"
+
+#~ msgid "berserk"
+#~ msgstr "лудост"
+
+#~ msgid "backstab"
+#~ msgstr "са леђа"
+
+#~ msgid "plague"
+#~ msgstr "куга"
+
+#, fuzzy
+#~ msgid "slows"
+#~ msgstr "успорава"
+
+#, fuzzy
+#~ msgid "stones"
+#~ msgstr "стена"
+
+#~ msgid "magical"
+#~ msgstr "магијски"
+
+#~ msgid "swarm"
+#~ msgstr "рој"
+
+#~ msgid "charge"
+#~ msgstr "јуриш"
+
+#, fuzzy
+#~ msgid "drains"
+#~ msgstr "исцрпљује"
+
+#~ msgid "firststrike"
+#~ msgstr "првинапад"
+
+#~ msgid "poison"
+#~ msgstr "отров"
+
+#, fuzzy
+#~ msgid "Artwork and Graphics Designers"
+#~ msgstr "Уметници и графички дизајнери"
+
+#~ msgid "Music"
+#~ msgstr "Музика"
+
+#~ msgid "Scenario Designers"
+#~ msgstr "Сценарио Дизајнери"
+
+#~ msgid "Multiplayer Developers"
+#~ msgstr "Мултиплејер Руководиоци"
+
+#~ msgid "Multiplayer Maps"
+#~ msgstr "Мултиплејер Мапе"
+
+#~ msgid "Packagers"
+#~ msgstr "Паковање игре"
+
+#~ msgid "Miscellaneous"
+#~ msgstr "Разно"
+
+#~ msgid "Internationalization Managers"
+#~ msgstr "Управљачи Интернационализације"
+
+#~ msgid "Afrikaans Translation"
+#~ msgstr "Афрички"
+
+#~ msgid "Basque Translation"
+#~ msgstr "Баски"
+
+#~ msgid "Bulgarian Translation"
+#~ msgstr "Бугарски"
+
+#~ msgid "Catalan Translation"
+#~ msgstr "Каталански"
+
+#~ msgid "Chinese Translation"
+#~ msgstr "Кинески Превод"
+
+#~ msgid "Czech Translation"
+#~ msgstr "Чешки"
+
+#~ msgid "Danish Translation"
+#~ msgstr "Дански"
+
+#~ msgid "Dutch Translation"
+#~ msgstr "Холандски"
+
+#~ msgid "English (GB) Translation"
+#~ msgstr "Британски"
+
+#~ msgid "Esperanto Translation"
+#~ msgstr "Есперанто"
+
+#~ msgid "Estonian Translation"
+#~ msgstr "Естонијски"
+
+#, fuzzy
+#~ msgid "Filipino Translation"
+#~ msgstr "Фински"
+
+#~ msgid "Finnish Translation"
+#~ msgstr "Фински"
+
+#~ msgid "French Translation"
+#~ msgstr "Француски"
+
+#~ msgid "German Translation"
+#~ msgstr "Немачки"
+
+#~ msgid "Greek Translation"
+#~ msgstr "Грчки"
+
+#~ msgid "Hebrew Translation"
+#~ msgstr "Хербејски"
+
+#~ msgid "Hungarian Translation"
+#~ msgstr "Мађарски"
+
+#~ msgid "Indonesian Translation"
+#~ msgstr "Индонежански"
+
+#~ msgid "Italian Translation"
+#~ msgstr "Италијански"
+
+#~ msgid "Japanese Translation"
+#~ msgstr "Јапански"
+
+#, fuzzy
+#~ msgid "Korean Translation"
+#~ msgstr "Норвешки"
+
+#~ msgid "Latin Translation"
+#~ msgstr "Латински"
+
+#~ msgid "Norwegian Translation"
+#~ msgstr "Норвешки"
+
+#~ msgid "Polish Translation"
+#~ msgstr "Пољски"
+
+#~ msgid "Portuguese Translation"
+#~ msgstr "Португалски"
+
+#~ msgid "Portuguese (Brazil) Translation"
+#~ msgstr "Португалско-Бразилски"
+
+#~ msgid "Russian Translation"
+#~ msgstr "Руски"
+
+#~ msgid "Serbian Translation"
+#~ msgstr "Српски"
+
+#~ msgid "Slovak Translation"
+#~ msgstr "Словачки"
+
+#~ msgid "Slovenian Translation"
+#~ msgstr "Словенски"
+
+#~ msgid "Spanish Translation"
+#~ msgstr "Шпански"
+
+#~ msgid "Swedish Translation"
+#~ msgstr "Шведски"
+
+#~ msgid "Turkish Translation"
+#~ msgstr "Турски"
+
+#~ msgid "Contributors"
+#~ msgstr "Допринели су"
+
+#~ msgid "Bots"
+#~ msgstr "Ботови"
+
+#~ msgid ", MAX XP +25%"
+#~ msgstr ", МАX ИСК +25%"
+
+#~ msgid "Max HP bonus +"
+#~ msgstr "Max ЕН додатно +"
+
+#~ msgid "Full Heal"
+#~ msgstr "Потпуно Лечење"
+
+#, fuzzy
+#~ msgid "Campaign Designer"
+#~ msgstr "Кампања"
+
+#~ msgid "Horse Lord"
+#~ msgstr "Коњо-Лорд"
+
+#~ msgid "sword"
+#~ msgstr "мач"
+
+#~ msgid "blade"
+#~ msgstr "сабља"
+
+#, fuzzy
+#~ msgid "morning star"
+#~ msgstr "звезда падалица"
+
+#~ msgid "impact"
+#~ msgstr "ударац"
+
+#, fuzzy
+#~ msgid "greatsword"
+#~ msgstr "мач"
+
+#~ msgid "claws"
+#~ msgstr "канџе"
+
+#, fuzzy
+#~ msgid "Current Maintainer"
+#~ msgstr "Тренутни задатак:"
+
+#~ msgid "female^Battle Princess"
+#~ msgstr "Ратна Принцеза"
+
+#~ msgid "sabre"
+#~ msgstr "сабља"
+
+#~ msgid "fire"
+#~ msgstr "ватра"
+
+#~ msgid "spear"
+#~ msgstr "копље"
+
+#~ msgid "pierce"
+#~ msgstr "сечиво"
+
+#~ msgid "gaze"
+#~ msgstr "дах"
+
+#~ msgid "cold"
+#~ msgstr "хладно"
+
+#~ msgid "Commander"
+#~ msgstr "Командир"
+
+#~ msgid ""
+#~ "The rank of Commander is held by those who lead battle groups into "
+#~ "combat. Possessing leadership skills, they give lower-level units in "
+#~ "adjacent hexes improved performance in combat. Commanders are best "
+#~ "skilled with the sword, although they also carry a bow to use when "
+#~ "necessary. If the Commander is lost, so is the battle."
+#~ msgstr ""
+#~ "Чин командира је посједују они који воде ратнике у борбу. Посједујући "
+#~ "вјештине вође, они ојачавају борбеност јединица нижег ранга у додирним "
+#~ "шестоугаоницима. Командири су одлични мачеваоци, мада се знају служити "
+#~ "луком и стрелом по потреби. Ако се Командир изгуби, губи се и битка."
+
+#~ msgid "bow"
+#~ msgstr "лук"
+
+#~ msgid "staff"
+#~ msgstr "штап"
+
+#~ msgid "lightning"
+#~ msgstr "муња"
+
+#~ msgid "Fighter"
+#~ msgstr "Борац"
+
+#~ msgid ""
+#~ "Young and brash, Fighters fight with a sword, and are vulnerable to "
+#~ "attack from enemies. However they have the potential to become great "
+#~ "warriors one day."
+#~ msgstr ""
+#~ "Млад и неискусан, Борац ратује мачем и веома је рањив. Ипак имају "
+#~ "потенцијала да постану велики ратници једнога дана."
+
+#~ msgid "Lord"
+#~ msgstr "Лорд"
+
+#~ msgid "female^Princess"
+#~ msgstr "Принцеза"
+
+#~ msgid ""
+#~ "A noble by birth, the Princess has learnt swordplay with the greatest "
+#~ "generals and battle tactics with the greatest sages, making her both a "
+#~ "great combatant and leader. The units of lower level around the Princess "
+#~ "will fight better due to her presence. The Princess is also nimble and "
+#~ "dextrous, having skills like that of a thief."
+#~ msgstr ""
+#~ "Племенита по рођењу, Принцеза је научила мачевање од највећих генерала и "
+#~ "тактизирање од највећих мудраца, правећи је великим борцем и вођом. "
+#~ "Јединице нижег ранга око Принцезе ће се борити боље због њеног присуства. "
+#~ "Принцеза је физички јака и поседује вештине лопова."
+
+#~ msgid "Princess"
+#~ msgstr "Принцеза"
+
+#~ msgid "Sea Orc"
+#~ msgstr "Морски Орк"
+
+#~ msgid "Sleeping Gryphon"
+#~ msgstr "Спавајући Грифин"
+
+#~ msgid "Shhhh! The Gryphon is sleeping! You'd better not wake it up!"
+#~ msgstr "Пссссст! Грифин спава! Боље га немој будити!"
+
+#~ msgid "Youth"
+#~ msgstr "Младић"
+
+#~ msgid ""
+#~ "Today almost a boy, by his devotion to the crown he is seeking to become "
+#~ "a Lord -- to join the elite of human fighters."
+#~ msgstr ""
+#~ "Данас скоро па дечак, његовом обвезом према круни, он се нада да ће "
+#~ "ускоро постати Лорд -- и да ће се прикључити елитним хуманим борцима."
+
+#~ msgid "training sword"
+#~ msgstr "тренирање мача"
+
+#~ msgid "bite"
+#~ msgstr "угриз"
+
+#~ msgid "tail"
+#~ msgstr "реп"
+
+#~ msgid "fire breath"
+#~ msgstr "ватрени дах"
+
+#~ msgid "Noble Fighter"
+#~ msgstr "Племенити Борац"
+
+#~ msgid ""
+#~ "Young and brash, Fighters fight with a sword, and are vulnerable to "
+#~ "ranged attacks from enemies. However they have the potential to become "
+#~ "great Commanders one day."
+#~ msgstr ""
+#~ "Млади и неискусни, Борци се боре мачем и веома су рањиви на удаљене "
+#~ "напада непријатеља. Ипак имају велики потенцијал да постану Команданти "
+#~ "једнога дана."
+
+#~ msgid "Noble Youth"
+#~ msgstr "Племенити Младић"
+
+#~ msgid "sling"
+#~ msgstr "праћка"
+
+#~ msgid "curse"
+#~ msgstr "клетва"
+
+#~ msgid "mace"
+#~ msgstr "буздован"
+
+#~ msgid "crush"
+#~ msgstr "рушећи"
+
+#~ msgid "touch"
+#~ msgstr "додир"
+
+#~ msgid "female^Arch Mage"
+#~ msgstr "Пра Мађионичарка"
+
+#~ msgid "fireball"
+#~ msgstr "ватрена лопта"
+
+#~ msgid "missile"
+#~ msgstr "пројектил"
+
+#~ msgid "Easy"
+#~ msgstr "Лагано"
+
+#~ msgid "Medium"
+#~ msgstr "Средње"
+
+#~ msgid "Hard"
+#~ msgstr "Тешко"
+
+#~ msgid ""
+#~ "Lawful units fight better during the day, and worse at night.\n"
+#~ "\n"
+#~ "Day: +25% Damage\n"
+#~ "Night: -25% Damage"
+#~ msgstr ""
+#~ "Добре јединице се боље боре дању, а лошије ноћу.\n"
+#~ "\n"
+#~ "Дању: +25% Штете\n"
+#~ "Ноћу: -25% Штете"
+
+#~ msgid ""
+#~ "Neutral units are unaffected by day and night, fighting equally well "
+#~ "under both conditions."
+#~ msgstr ""
+#~ "Неутралне јединице нису афектоване сменом дана и ноћи, боре се подједнако "
+#~ "у било које време."
+
+#~ msgid ""
+#~ "Chaotic units fight better at night, and worse during the day.\n"
+#~ "\n"
+#~ "Day: -25% Damage\n"
+#~ "Night: +25% Damage"
+#~ msgstr ""
+#~ "Хаотичне јединице се ноћу боре боље, а дању лошије.\n"
+#~ "\n"
+#~ "Дању: -25% Штете\n"
+#~ "Ноћу: +25% Штете"
+
+#~ msgid "Elves"
+#~ msgstr "Елфови"
+
+#~ msgid "Humans"
+#~ msgstr "Људи"
+
+#~ msgid "Orcs"
+#~ msgstr "Оркови"
+
+#~ msgid "race^Undead"
+#~ msgstr "Мртви"
+
+#~ msgid "$name's Bridge,$name's Crossing"
+#~ msgstr "$name мост,$name раскршће"
+
+#~ msgid "$name's Highway,$name's Pass,Path of $name"
+#~ msgstr "$name друм"
+
+#~ msgid "$name River,River $name"
+#~ msgstr "$name река"
+
+#~ msgid "$name Forest,$name's Forest"
+#~ msgstr "$name шума"
+
+#~ msgid "$name Lake"
+#~ msgstr "$name језеро"
+
+#~ msgid "melee"
+#~ msgstr "прса у прса"
+
+#~ msgid "ranged"
+#~ msgstr "удаљен"
+
+#~ msgid "Alliance of Darkness"
+#~ msgstr "Тамна Алијанса"
+
+#~ msgid "Alliance of Light"
+#~ msgstr "Светла Алијанса"
+
+#~ msgid "Drakes"
+#~ msgstr "Змајеви"
+
+#~ msgid "Knalgan Alliance"
+#~ msgstr "Кналган Алијанса"
+
+#~ msgid "Loyalists"
+#~ msgstr "Лојалисти"
+
+#~ msgid "Northerners"
+#~ msgstr "Северњаци"
+
+#~ msgid "Rebels"
+#~ msgstr "Побуњеници"
+
+#~ msgid "Undead"
+#~ msgstr "Мртви"
+
+#, fuzzy
+#~ msgid "DejaVuSans.ttf,FreeSans.ttf,sazanami-gothic.ttf,gkai00mp.ttf"
+#~ msgstr "DejaVuSans.ttf,FreeSans.ttf,sazanami-gothic.ttf,gkai00mp.ttf"
+
+#~ msgid "Binary Saves"
+#~ msgstr "Бинарни Снимци"
+
+#~ msgid "Show Combat"
+#~ msgstr "Прикажи Борбу"
+
+#~ msgid "Introduction"
+#~ msgstr "Представљање"
+
+#~ msgid "Gameplay"
+#~ msgstr "Играње игре"
+
+#~ msgid "Traits"
+#~ msgstr "Особине"
+
+#~ msgid "Units"
+#~ msgstr "Јединице"
+
+#~ msgid "Abilities"
+#~ msgstr "Могућности"
+
+#~ msgid "Weapon Specials"
+#~ msgstr "Оружана Специјалност"
+
+#~ msgid "Terrains"
+#~ msgstr "Терени"
+
+#, fuzzy
+#~ msgid "Commands"
+#~ msgstr "Командир"
+
+#~ msgid "Overview"
+#~ msgstr "Преглед"
+
+#~ msgid ""
+#~ "Certain units have abilities that either directly affect other units, or "
+#~ "have an impact on how the unit interacts with other units. These "
+#~ "abilities will be listed under this topic as you encounter them."
+#~ msgstr ""
+#~ "Одређене јединице имају могућност да директно утичу на друге јединице, "
+#~ "или имају утицај на то како јединице утичу међусобно. Ове могућности биће "
+#~ "приказане испод ове тачке како наилазите на њих."
+
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "Battle for Wesnoth is a turn-based fantasy strategy game somewhat unusual "
+#~ "among modern strategy games. While other games strive for complexity, "
+#~ "Battle for Wesnoth strives for simplicity of both rules and gameplay. "
+#~ "This does not make the game simple, however - from these simple rules "
+#~ "arise a wealth of strategy, making the game easy to learn but a challenge "
+#~ "to master."
+#~ msgstr ""
+#~ "\n"
+#~ "\n"
+#~ "Борба За Веснот је потезно базирана фантазијска стратешка игра веома "
+#~ "необична међу модерним стратегијама. Док већина других игара стреми ка "
+#~ "повећању комплексности, Борба за Веснот циља ка поједностављеним "
+#~ "правилима и начину играња. Ипак, ово игру не прави лаганом, шта више, из "
+#~ "једноставних темеља расте право богатство стратегија и тактика, правећи "
+#~ "игру лагану за научити али и изазовном за обвладати."
+
+#~ msgid "Fundamentals of Gameplay"
+#~ msgstr "Основе Играња"
+
+#~ msgid ""
+#~ "These pages outline all you need to know to play Battle for Wesnoth. They "
+#~ "cover how to play and the basic mechanics behind the game. As you play "
+#~ "the game, new information is added to these pages as you come across new "
+#~ "aspects of the game. For more detailed information on special situations "
+#~ "and exceptions, please follow the links included."
+#~ msgstr ""
+#~ "Ове странице уоквирују све што требате да знате да би сте играли Борбу За "
+#~ "Веснот. Покривају како да играте и основне механизме иза \"сцене\". Док "
+#~ "играте игру, нове информације се додају на ове странице како наилазите на "
+#~ "нове аспекте ове игре. За детаљније информације о посебним ситуацијама и "
+#~ "изузецима, пратите укључене хипервезе."
+
+#~ msgid "About the Game"
+#~ msgstr "О Игри"
+
+#~ msgid "Orbs"
+#~ msgstr "Магичне Кугле"
+
+#~ msgid "Hitpoints and Experience"
+#~ msgstr "Енергија и Искуство"
+
+#~ msgid "Movement"
+#~ msgstr "Кретање"
+
+#~ msgid "Combat"
+#~ msgstr "Борба"
+
+#~ msgid "Time of Day"
+#~ msgstr "Време дана"
+
+#~ msgid "Dawn"
+#~ msgstr "Зора"
+
+#~ msgid "Morning"
+#~ msgstr "Јутро"
+
+#~ msgid "Afternoon"
+#~ msgstr "Подне"
+
+#~ msgid "Dusk"
+#~ msgstr "Вече"
+
+#~ msgid "First Watch"
+#~ msgstr "Ноћ"
+
+#~ msgid "Second Watch"
+#~ msgstr "Поноћ"
+
+#~ msgid "Intelligent"
+#~ msgstr "Интелигентан"
+
+#~ msgid "Quick"
+#~ msgstr "Брз"
+
+#~ msgid "Resilient"
+#~ msgstr "Жилав"
+
+#~ msgid "Strong"
+#~ msgstr "Јак"
+
+#~ msgid "Loyal"
+#~ msgstr "Одан"
+
+#~ msgid "trait^Undead"
+#~ msgstr "Мртвац"
+
+#, fuzzy
+#~ msgid "Dextrous"
+#~ msgstr "сналажљив"
+
+#~ msgid "Grassland"
+#~ msgstr "Ливада"
+
+#~ msgid "Road"
+#~ msgstr "Друм"
+
+#~ msgid "Forest"
+#~ msgstr "Шума"
+
+#~ msgid "Hills"
+#~ msgstr "Брда"
+
+#~ msgid "Mountains"
+#~ msgstr "Планине"
+
+#~ msgid "Swamp"
+#~ msgstr "Мочвара"
+
+#~ msgid "Shallow Water"
+#~ msgstr "Плитка Вода"
+
+#~ msgid "Deep Water"
+#~ msgstr "Дубока Вода"
+
+#~ msgid "Snow"
+#~ msgstr "Снијег"
+
+#~ msgid "Ice"
+#~ msgstr "Лед"
+
+#~ msgid "Castle"
+#~ msgstr "Замак"
+
+#~ msgid "Sand"
+#~ msgstr "Пјесак"
+
+#~ msgid "Desert"
+#~ msgstr "Пустиња"
+
+#~ msgid "Cave"
+#~ msgstr "Пећина"
+
+#, fuzzy
+#~ msgid "Illuminated Cave"
+#~ msgstr "осветљава"
+
+#~ msgid "Savanna"
+#~ msgstr "Пашњак"
+
+#~ msgid "Village"
+#~ msgstr "Село"
+
+#~ msgid "Lava"
+#~ msgstr "Лава"
+
+#~ msgid "River Ford"
+#~ msgstr "Поток"
+
+#~ msgid "Bridge"
+#~ msgstr "Мост"
+
+#~ msgid "Cave Wall"
+#~ msgstr "Пећински Зид"
+
+#, fuzzy
+#~ msgid "General commands"
+#~ msgstr "Генерал"
+
+#, fuzzy
+#~ msgid "Multiplayer commands"
+#~ msgstr "Мултиплејер Мапе"
+
+#, fuzzy
+#~ msgid "A swift victory"
+#~ msgstr "Лагана поведа"
+
+#~ msgid "Lots of gold"
+#~ msgstr "Брдо злата"
+
+#~ msgid "Peace throughout Wesnoth."
+#~ msgstr "Мир у Весноту."
+
+#~ msgid "The only thing worth wishing for is peace throughout the land."
+#~ msgstr "Једина ствар вредна жеље јесте мир у читавој земљи."
+
+#~ msgid "Don't make a wish."
+#~ msgstr "Не пожели ништа."
+
+#~ msgid "Potion of Healing"
+#~ msgstr "Напитак Лечења"
+
+#~ msgid "A feeling of well-being overwhelms the drinker."
+#~ msgstr "Осећај \"бити робро\" надјачава пијаницу."
+
+#~ msgid "You are not worthy of healing."
+#~ msgstr "Ниси вредан лечења."
+
+#~ msgid "Poison"
+#~ msgstr "Отров"
+
+#~ msgid ""
+#~ "Poison is seeping through the veins of this unit at this very moment."
+#~ msgstr "Отров тече венама ове јединице баш у овим тренуцима."
+
+#~ msgid "Holy Water"
+#~ msgstr "Света Вода"
+
+#~ msgid "Potion of Strength"
+#~ msgstr "Напитак Снаге"
+
+#~ msgid "Zap"
+#~ msgstr "Зап"
+
+#~ msgid "User Map"
+#~ msgstr "Корисничка Мапа"
+
+#~ msgid "Random"
+#~ msgstr "Случајно"
+
+#~ msgid "Default"
+#~ msgstr "Уобичајено"
+
+#~ msgid "Age of Heroes"
+#~ msgstr "Године Хероја"
+
+#~ msgid "Great War"
+#~ msgstr "Велики Рат"
+
+#~ msgid "2p - Blitz"
+#~ msgstr "2и - Блиц"
+
+#~ msgid ""
+#~ "A duel map for super fast play. Recommended setting of 2 gold per village."
+#~ msgstr ""
+#~ "Мапа за брзи сукоб двају играча. Предлажемо постављање вредности 2 злата "
+#~ "по селу."
+
+#~ msgid "2p - Charge"
+#~ msgstr "2и - Јуриш"
+
+#~ msgid "2p - Hamlets"
+#~ msgstr "2и - Хамлети"
+
+#~ msgid "2p - Meteor Lake"
+#~ msgstr "2и - Језеро Метеора"
+
+#~ msgid "2p - Wesbowl"
+#~ msgstr "2и - Вескуглање"
+
+#~ msgid "Yes!"
+#~ msgstr "Да!"
+
+#~ msgid "No"
+#~ msgstr "Не"
+
+#, fuzzy
+#~ msgid ""
+#~ "Who will emerge from the confines of this perilous battlefield? "
+#~ "Recommended setting of 2 gold per village."
+#~ msgstr ""
+#~ "Мапа за брзи сукоб двају играча. Предлажемо постављање вредности 2 злата "
+#~ "по селу."
+
+#~ msgid "Random map"
+#~ msgstr "Случајна Мапа"
+
+#~ msgid "Random map (Desert)"
+#~ msgstr "Случајна Мапа (Пустињска)"
+
+#~ msgid "Random map (Marsh)"
+#~ msgstr "Случајна Мапа (Мочварна)"
+
+#~ msgid "Random map (Winter)"
+#~ msgstr "Случајна Мапа (Зимска)"
+
+#~ msgid "Underground"
+#~ msgstr "Подземље"
+
+#~ msgid "Deep Underground"
+#~ msgstr "Дубоко Подземље"
+
+#~ msgid "Red"
+#~ msgstr "Црвено"
+
+#~ msgid "Blue"
+#~ msgstr "Плаво"
+
+#~ msgid "Green"
+#~ msgstr "Зелено"
+
+#~ msgid "Purple"
+#~ msgstr "Љубичасто"
+
+#~ msgid "Orange"
+#~ msgstr "Наранџасто"
+
+#, fuzzy
+#~ msgid "Black"
+#~ msgstr "< Назад"
+
+#~ msgid "White"
+#~ msgstr "Бело"
+
+#~ msgid "Brown"
+#~ msgstr "Смеђе"
+
+#, fuzzy
+#~ msgid "Teal"
+#~ msgstr "Екипа"
+
+#~ msgid "Shroud"
+#~ msgstr "Сјенка"
+
+#~ msgid "Fog"
+#~ msgstr "Магла"
+
+#~ msgid "Dirt"
+#~ msgstr "Блато"
+
+#~ msgid "Oasis"
+#~ msgstr "Оаза"
+
+#~ msgid "Dunes"
+#~ msgstr "Дине"
+
+#~ msgid "Snow Hills"
+#~ msgstr "Снежна Брда"
+
+#~ msgid "Tropical Forest"
+#~ msgstr "Тропска Шума"
+
+#~ msgid "Snow Forest"
+#~ msgstr "Снежна Шума"
+
+#, fuzzy
+#~ msgid "Cave Lit"
+#~ msgstr "Под Пећине"
+
+#, fuzzy
+#~ msgid "Impassable Mountains"
+#~ msgstr "Пустињске Планине"
+
+#~ msgid "Great Tree"
+#~ msgstr "Огромно Дрво"
+
+#~ msgid "Encampment"
+#~ msgstr "Утврђење"
+
+#~ msgid "Dwarven Castle"
+#~ msgstr "Патуљски Замак"
+
+#~ msgid "Keep"
+#~ msgstr "Торањ"
+
+#~ msgid "Ruin"
+#~ msgstr "Рушевине"
+
+#~ msgid "Sunken Ruin"
+#~ msgstr "Поплављене Рушевине"
+
+#~ msgid "Swamp Ruin"
+#~ msgstr "Рушевине у Мочвари"
+
+#~ msgid "Menu"
+#~ msgstr "Мени"
+
+#~ msgid "Actions"
+#~ msgstr "Акције"
+
+#~ msgid "End Turn"
+#~ msgstr "Крај Потеза"
+
+#~ msgid "HP"
+#~ msgstr "КРВ"
+
+#~ msgid "XP"
+#~ msgstr "ИСК"
+
+#~ msgid "gold"
+#~ msgstr "злато"
+
+#~ msgid "villages"
+#~ msgstr "села"
+
+#~ msgid "units"
+#~ msgstr "јединице"
+
+#~ msgid "upkeep"
+#~ msgstr "трошкови"
+
+#~ msgid "income"
+#~ msgstr "зарада"
+
+#~ msgid "statuspanel^level"
+#~ msgstr "ниво"
+
+#~ msgid "statuspanel^movement"
+#~ msgstr "кретање"
+
+#~ msgid "Act."
+#~ msgstr "Чин."
+
+#~ msgid "short end-turn^End"
+#~ msgstr "Крај"
+
+#~ msgid "File"
+#~ msgstr "Фајл"
+
+#~ msgid "Edit"
+#~ msgstr "Уреди"
+
+#~ msgid ""
+#~ "Lawful units fight better at day, and chaotic units fight better at "
+#~ "night. Neutral units are unaffected by day and night."
+#~ msgstr ""
+#~ "Добре јединице боље се боре дању, а хаотичне јединице су јаче ноћу. "
+#~ "Неутралне јединице нису афектоване сменом обданице и ноћи."
+
+#~ msgid "loyal"
+#~ msgstr "одан"
+
+#~ msgid "undead"
+#~ msgstr "немртво"
+
+#~ msgid "Immune to poison"
+#~ msgstr "Отпоран на отров"
+
+#~ msgid "strong"
+#~ msgstr "јак"
+
+#~ msgid "dextrous"
+#~ msgstr "сналажљив"
+
+#~ msgid "quick"
+#~ msgstr "брз"
+
+#~ msgid "intelligent"
+#~ msgstr "интелигентан"
+
+#~ msgid "resilient"
+#~ msgstr "жилав"
+
+#, fuzzy
+#~ msgid "Left click on Konrad"
+#~ msgstr "Конрадова Смрт"
+
+#, fuzzy
+#~ msgid "Left click on Li'sar"
+#~ msgstr "Делфадорова Смрт"
+
+#, fuzzy
+#~ msgid "Patch of forest"
+#~ msgstr "Делфадорова Смрт"
+
+#, fuzzy
+#~ msgid "Defeat the Orc Leader"
+#~ msgstr "Победи Делфадора"
+
+#~ msgid "Death of Konrad"
+#~ msgstr "Конрадова Смрт"
+
+#~ msgid "Turns run out"
+#~ msgstr "Истекли су вам потези"
+
+#, fuzzy
+#~ msgid "So, should I end my turn now?"
+#~ msgstr "Како завршавам потез?"
+
+#, fuzzy
+#~ msgid "female^Fighter"
+#~ msgstr "Мађионичарка"
+
+#, fuzzy
+#~ msgid "Quintain"
+#~ msgstr "Планине"
+
+#, fuzzy
+#~ msgid "flail"
+#~ msgstr "реп"
+
+#~ msgid "dummy"
+#~ msgstr "глупо"
+
+#~ msgid "Pirate Galleon"
+#~ msgstr "Пиратски Галеон"
+
+#~ msgid "Drake Clasher"
+#~ msgstr "Змај Рушитељ"
+
+#~ msgid "Drake Fighter"
+#~ msgstr "Змај Борац"
+
+#~ msgid ""
+#~ "Drake Fighters wield curved scimitars with deadly skill, and possess the "
+#~ "fire breathing skills of their ancestors. The most skilled Fighters go on "
+#~ "to join the ranks of the elite Drake Warriors."
+#~ msgstr ""
+#~ "Змајеви Борци носе танке сабље са смртниом вештином руковања и поседују "
+#~ "вештине издисања ватре, својих старих предака.  Највештији Борци се "
+#~ "придружују елитном рангу Змајевих Ратника."
+
+#~ msgid "scimitar"
+#~ msgstr "танки мач"
+
+#~ msgid "Fire Drake"
+#~ msgstr "Ватрени Змај"
+
+#~ msgid "slam"
+#~ msgstr "шамар"
+
+#~ msgid "Sky Drake"
+#~ msgstr "Небески Змај"
+
+#~ msgid "Drake Slasher"
+#~ msgstr "Змај Касапин"
+
+#~ msgid "halberd"
+#~ msgstr "халберд"
+
+#~ msgid "dagger"
+#~ msgstr "ножић"
+
+#~ msgid "dragonstaff"
+#~ msgstr "змајев штап"
+
+#~ msgid "axe"
+#~ msgstr "сикира"
+
+#~ msgid "hammer"
+#~ msgstr "чекић"
+
+#~ msgid "battle axe"
+#~ msgstr "ратна сикира"
+
+#, fuzzy
+#~ msgid "Dwarvish Runemaster"
+#~ msgstr "Замак Патуљака"
+
+#~ msgid "Lightning bolt"
+#~ msgstr "Скуп Муња"
+
+#~ msgid "Elvish Captain"
+#~ msgstr "Елфовски Капетан"
+
+#~ msgid "Elvish Champion"
+#~ msgstr "Елфовски Шампион"
+
+#~ msgid "thorns"
+#~ msgstr "трње"
+
+#~ msgid "female^Elvish Enchantress"
+#~ msgstr "Елфовска Помоћница"
+
+#, fuzzy
+#~ msgid "entangle"
+#~ msgstr "обухвата"
+
+#~ msgid "longbow"
+#~ msgstr "велики лук"
+
+#, fuzzy
+#~ msgid "faerie touch"
+#~ msgstr "додир"
+
+#~ msgid "female^Elvish Sorceress"
+#~ msgstr "Елфовска Мађионичарка"
+
+#~ msgid "fangs"
+#~ msgstr "зуби"
+
+#~ msgid "Goblin Pillager"
+#~ msgstr "Гоблин Рушитељ"
+
+#~ msgid "torch"
+#~ msgstr "бакља"
+
+#~ msgid "net"
+#~ msgstr "мрежа"
+
+#, fuzzy
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "Special Notes:"
+#~ msgstr "Специјално"
+
+#~ msgid "Knight"
+#~ msgstr "Витез"
+
+#~ msgid "Lancer"
+#~ msgstr "Јуришник"
+
+#~ msgid "holy"
+#~ msgstr "свето"
+
+#~ msgid "Bowman"
+#~ msgstr "Лучник"
+
+#~ msgid "Cavalier"
+#~ msgstr "Лаки Коњаник"
+
+#~ msgid "crossbow"
+#~ msgstr "самострел"
+
+#~ msgid "Cavalryman"
+#~ msgstr "Коњаништво"
+
+#~ msgid "Duelist"
+#~ msgstr "Изазивач"
+
+#~ msgid "General"
+#~ msgstr "Генерал"
+
+#~ msgid "Halberdier"
+#~ msgstr "Халберда"
+
+#~ msgid "Javelineer"
+#~ msgstr "Бацач Кладива"
+
+#~ msgid "Longbowman"
+#~ msgstr "Стрелац Дугог Лука"
+
+#~ msgid "pike"
+#~ msgstr "копље"
+
+#~ msgid "Spearman"
+#~ msgstr "Копљаник"
+
+#~ msgid "Mage"
+#~ msgstr "Маг"
+
+#~ msgid "female^Mage"
+#~ msgstr "Мађионичарка"
+
+#~ msgid "Arch Mage"
+#~ msgstr "Пра Маг"
+
+#~ msgid "Great Mage"
+#~ msgstr "Велиги Маг"
+
+#~ msgid "Red Mage"
+#~ msgstr "Црвени Маг"
+
+#~ msgid "White Mage"
+#~ msgstr "Бели Маг"
+
+#~ msgid "lightbeam"
+#~ msgstr "свјетлосни бљесак"
+
+#~ msgid "Mage of Light"
+#~ msgstr "Маг Светлости"
+
+#~ msgid "female^Mage of Light"
+#~ msgstr "Мађионичарка Светлости"
+
+#~ msgid "Assassin"
+#~ msgstr "Убица"
+
+#~ msgid "knife"
+#~ msgstr "нож"
+
+#~ msgid "female^Assassin"
+#~ msgstr "Убица"
+
+#~ msgid "Bandit"
+#~ msgstr "Бандит"
+
+#~ msgid "club"
+#~ msgstr "палија"
+
+#~ msgid "female^Thief"
+#~ msgstr "Лопов"
+
+#, fuzzy
+#~ msgid "female^Mermaid Enchantress"
+#~ msgstr "Принцеза"
+
+#~ msgid "water spray"
+#~ msgstr "водена пара"
+
+#, fuzzy
+#~ msgid "female^Mermaid Priestess"
+#~ msgstr "Принцеза"
+
+#~ msgid "naia touch"
+#~ msgstr "наја додир"
+
+#~ msgid "trident"
+#~ msgstr "трозубац"
+
+#~ msgid "Giant Spider"
+#~ msgstr "Џиновски Паук"
+
+#~ msgid "web"
+#~ msgstr "мрежа"
+
+#, fuzzy
+#~ msgid "tentacle"
+#~ msgstr "Нападач"
+
+#~ msgid "ink"
+#~ msgstr "мастило"
+
+#~ msgid "Giant Mudcrawler"
+#~ msgstr "Џиновски Блатњар"
+
+#~ msgid "fist"
+#~ msgstr "шака"
+
+#~ msgid "Giant Scorpion"
+#~ msgstr "Џиновски Шкорпион"
+
+#~ msgid "sting"
+#~ msgstr "жало"
+
+#~ msgid "pincers"
+#~ msgstr "мучитељ"
+
+#~ msgid "cleaver"
+#~ msgstr "паметан"
+
+#~ msgid "Orcish Assassin"
+#~ msgstr "Орковски Убица"
+
+#~ msgid "Orcish Crossbowman"
+#~ msgstr "Оковски Стрељач"
+
+#~ msgid "short sword"
+#~ msgstr "кратки мач"
+
+#~ msgid "Orcish Leader"
+#~ msgstr "Орковски Вођа"
+
+#, fuzzy
+#~ msgid ""
+#~ "Orcish Leaders are the chiefs of their tribe. They make the important "
+#~ "decisions and lead their people into battle. They carry a bow out of "
+#~ "necessity, but are much more skilled with the sword; all in all, they are "
+#~ "powerful fighters. Their natural leadership skills make them very "
+#~ "precious in battle: if the Leader is lost, so is the battle.\n"
+#~ "\n"
+#~ "Special Notes:"
+#~ msgstr ""
+#~ "Орковске Вође су главе својих племена. Они доносе важне одлуке и воде "
+#~ "свој народ у битке. Носе лук и стреле због предострожности, али су много "
+#~ "вештији у кориштењу мача; све у свему, моћни су ратници. Њихова природна "
+#~ "вештина вођства чини их вредним у биткама: ако је Вођа изгубљен, онда је "
+#~ "и битка."
+
+#, fuzzy
+#~ msgid ""
+#~ "Orcish Rulers are the chiefs of their tribe. They make the important "
+#~ "decisions and lead their people into battle. They carry a bow out of "
+#~ "necessity, but are much more skilled with the sword; all in all, they are "
+#~ "powerful fighters. Their natural leadership skills make them very "
+#~ "precious in battle: if the Ruler is lost, so is the battle.\n"
+#~ "\n"
+#~ "Special Notes:"
+#~ msgstr ""
+#~ "Орковске Вође су главе својих племена. Они доносе важне одлуке и воде "
+#~ "свој народ у битке. Носе лук и стреле због предострожности, али су много "
+#~ "вештији у кориштењу мача; све у свему, моћни су ратници. Њихова природна "
+#~ "вештина вођства чини их вредним у биткама: ако је Вођа изгубљен, онда је "
+#~ "и битка."
+
+#, fuzzy
+#~ msgid ""
+#~ "Orcish Sovereigns are the chiefs of their tribe. They make the important "
+#~ "decisions and lead their people into battle. They carry a bow out of "
+#~ "necessity, but are much more skilled with the sword; all in all, they are "
+#~ "powerful fighters. Their natural leadership skills make them very "
+#~ "precious in battle: if the Sovereign is lost, so is the battle.\n"
+#~ "\n"
+#~ "Special Notes:"
+#~ msgstr ""
+#~ "Орковске Вође су главе својих племена. Они доносе важне одлуке и воде "
+#~ "свој народ у битке. Носе лук и стреле због предострожности, али су много "
+#~ "вештији у кориштењу мача; све у свему, моћни су ратници. Њихова природна "
+#~ "вештина вођства чини их вредним у биткама: ако је Вођа изгубљен, онда је "
+#~ "и битка."
+
+#~ msgid "Saurian Ambusher"
+#~ msgstr "Сауриан Засједник"
+
+#~ msgid "Saurian Augur"
+#~ msgstr "Сауриан Аугур"
+
+#~ msgid "Saurian Flanker"
+#~ msgstr "Сауриан Боковник"
+
+#~ msgid "Saurian Oracle"
+#~ msgstr "Сауриан Пророчица"
+
+#~ msgid "Saurian Skirmisher"
+#~ msgstr "Сауриан Ускок"
+
+#~ msgid "Great Troll"
+#~ msgstr "Велики Трол"
+
+#~ msgid "Ghoul"
+#~ msgstr "Гхол"
+
+#~ msgid "Necrophage"
+#~ msgstr "Лешинар"
+
+#, fuzzy
+#~ msgid "plague staff"
+#~ msgstr "куга"
+
+#~ msgid "Deathblade"
+#~ msgstr "Смртни мач"
+
+#~ msgid "Revenant"
+#~ msgstr "Еластични"
+
+#~ msgid "Spectre"
+#~ msgstr "Спектер"
+
+#~ msgid "Wraith"
+#~ msgstr "Осветник"
+
+#~ msgid "Wose"
+#~ msgstr "Дрво"
+
+#~ msgid "+Core Developers"
+#~ msgstr "Развојни Тим"
+
+#, fuzzy
+#~ msgid "+  Main Developer"
+#~ msgstr "Главни Програмери"
+
+#, fuzzy
+#~ msgid "+  Artwork and graphics designer"
+#~ msgstr "Уметност и графички дизајн"
+
+#~ msgid "+Developers"
+#~ msgstr "Програмери"
+
+#~ msgid "+General Purpose Administrators"
+#~ msgstr "Администратори Опште Сврхе"
+
+#~ msgid "+"
+#~ msgstr "+"
+
+#~ msgid "+  "
+#~ msgstr "+"
+
+#~ msgid "Close"
+#~ msgstr "Затвори"
+
+#~ msgid "You don't have a leader to recruit with."
+#~ msgstr "Вођа је неопходан за регрутовање."
+
+#~ msgid "You must have your leader on a keep to recruit or recall units."
+#~ msgstr "Морате имати вођу у замку да би регрутовали или призвали јединице."
+
+#~ msgid "There are no vacant castle tiles in which to recruit a unit."
+#~ msgstr "Нема слободних места у замку за регрутацију јединица!"
+
+#~ msgid "poisoned"
+#~ msgstr "отрован"
+
+#~ msgid "slowed"
+#~ msgstr "успорен"
+
+#~ msgid "stone"
+#~ msgstr "стена"
+
+#~ msgid "Ambushed!"
+#~ msgstr "Заседа!"
+
+#~ msgid "Friendly unit sighted"
+#~ msgstr "Савезник на видику!"
+
+#~ msgid "Enemy unit sighted!"
+#~ msgstr "Противник на видику!"
+
+#~ msgid "$friends Friendly units sighted"
+#~ msgstr "$friends Пријатељска јединица на видику!"
+
+#~ msgid "$enemies Enemy units sighted!"
+#~ msgstr "$enemies Непријатељска јединица на видику!"
+
+#~ msgid "Units sighted! ($friends friendly, $enemies enemy)"
+#~ msgstr "Јединица на видику! ($friends пријатељска, $enemies непријатељска)"
+
+#~ msgid "(press $hotkey to continue)"
+#~ msgstr "(притисните $hotkey за даље)"
+
+#~ msgid "Advance Unit"
+#~ msgstr "Унапреди Јединицу"
+
+#~ msgid "What should our victorious unit become?"
+#~ msgstr "Шта желите да наша храбра јединица постане?"
+
+#~ msgid "No objectives available"
+#~ msgstr "Нема задатака"
+
+#~ msgid "Save Game"
+#~ msgstr "Сачувај Игру"
+
+#~ msgid "Overwrite?"
+#~ msgstr "Препиши?"
+
+#~ msgid "Save already exists. Do you want to overwrite it ?"
+#~ msgstr "Игра већ постоји. Желите ли да препишем преко ње?"
+
+#~ msgid "Don't ask me again!"
+#~ msgstr "Не питај ме више!"
+
+#~ msgid "Do you really want to delete this game?"
+#~ msgstr "Заиста желите да обришете ову сачувану игру?"
+
+#~ msgid "Campaign"
+#~ msgstr "Кампања"
+
+#~ msgid "Multiplayer"
+#~ msgstr "Удружено играње"
+
+#~ msgid "Tutorial"
+#~ msgstr "Школа"
+
+#~ msgid "replay"
+#~ msgstr "снимак"
+
+#~ msgid "Turn"
+#~ msgstr "Потез"
+
+#~ msgid "Scenario Start"
+#~ msgstr "Почетак Сценарија:"
+
+#~ msgid "Difficulty: "
+#~ msgstr "Тежина :"
+
+#~ msgid "Version: "
+#~ msgstr "Верзија :"
+
+#~ msgid "No Saved Games"
+#~ msgstr "Нема Снимљених Игара"
+
+#~ msgid ""
+#~ "There are no saved games to load.\n"
+#~ "(Games are saved automatically when you complete a scenario)"
+#~ msgstr ""
+#~ "Нема сачуваних игара за учитати.\n"
+#~ "(Игре се сачувавају аутоматски када завршите сценарио)"
+
+#~ msgid "Delete Save"
+#~ msgstr "Обриши Снимак"
+
+#~ msgid "Import Saved Games"
+#~ msgstr "Увези Сачуване Игре"
+
+#~ msgid "Date"
+#~ msgstr "Датум"
+
+#~ msgid "Name"
+#~ msgstr "Име"
+
+#~ msgid "Show replay"
+#~ msgstr "Прикажи ток игре"
+
+#~ msgid "Load Game"
+#~ msgstr "Учитај Игру"
+
+#~ msgid "Choose the game to load"
+#~ msgstr "Изабери игру за учитати"
+
+#~ msgid "Profile"
+#~ msgstr "Профил"
+
+#~ msgid "level"
+#~ msgstr "ниво"
+
+#~ msgid "HP: "
+#~ msgstr "ЕНГ:"
+
+#~ msgid "XP: "
+#~ msgstr "ИСК:"
+
+#~ msgid "Moves: "
+#~ msgstr "Кретање:"
+
+#~ msgid "Screenshot"
+#~ msgstr "Слика екрана"
+
+#, fuzzy
+#~ msgid "Fill"
+#~ msgstr "Фајл"
+
+#, fuzzy
+#~ msgid "Resize the map"
+#~ msgstr "Промени Величину Мапе"
+
+#~ msgid "Save the Map As"
+#~ msgstr "Сачувај Мапу Као ..."
+
+#~ msgid "The map already exists. Do you want to overwrite it?"
+#~ msgstr "Мапа већ постоји. Желите ли да препишете преко?"
+
+#~ msgid "Player"
+#~ msgstr "Играч"
+
+#~ msgid "Which Player?"
+#~ msgstr "Који Играч?"
+
+#~ msgid "Which player should start here?"
+#~ msgstr "Који играч би требало да буде овде?"
+
+#~ msgid "Choose a Map to Load"
+#~ msgstr "Изабери Мапу за Учитавање"
+
+#~ msgid "The file does not contain a valid map."
+#~ msgstr "Тај фајл није мапа."
+
+#~ msgid "'$filename' does not exist or can not be read as a file."
+#~ msgstr "'$filename' не постоји или немате дозволу за читање."
+
+#~ msgid "Load failed: "
+#~ msgstr "Учитавање је омануло:"
+
+#~ msgid "You must have a hex selected on the board."
+#~ msgstr "Морате изабрати хексагон на табли."
+
+#~ msgid "Quit Editor"
+#~ msgstr "Затвори Едитор"
+
+#~ msgid "Do you want to save the map before quitting?"
+#~ msgstr "Желите ли да сачувате мапу пре затварања?"
+
+#~ msgid "Map saved."
+#~ msgstr "Мапа је сачувана."
+
+#~ msgid "Could not save the map: $msg"
+#~ msgstr "Не могу да снимим мапу: $msg"
+
+#~ msgid "Your modifications to the map will be lost. Continue?"
+#~ msgstr "Ваше промене на мапи ће бити изгубљене. Наставити?"
+
+#~ msgid "Create New Map"
+#~ msgstr "Направи Нову Мапу"
+
+#~ msgid "Width:"
+#~ msgstr "Ширина:"
+
+#~ msgid "Height:"
+#~ msgstr "Висина:"
+
+#~ msgid "Generate New Map"
+#~ msgstr "Генериши Нову Мапу"
+
+#~ msgid "Generate Random Map"
+#~ msgstr "Генериши Случајну Мапу"
+
+#~ msgid "Random Generator Settings"
+#~ msgstr "Поставке Генератора Случајних Мапа"
+
+#~ msgid "Map creation failed."
+#~ msgstr "Прављење мапе није успело."
+
+#~ msgid "Close Window"
+#~ msgstr "Затвори прозор"
+
+#~ msgid "Preferences"
+#~ msgstr "Подешавања"
+
+#~ msgid "Scroll Speed:"
+#~ msgstr "Брзина Клизача"
+
+#~ msgid "Toggle Full Screen"
+#~ msgstr "Приказ Преко Целог Екрана"
+
+#~ msgid "Show Grid"
+#~ msgstr "Прикажи Мрежу"
+
+#~ msgid "Video Mode"
+#~ msgstr "Видео Мод"
+
+#~ msgid "Hotkeys"
+#~ msgstr "Скраћенице"
+
+#~ msgid "Resize Map"
+#~ msgstr "Промијени Величину Мапе"
+
+#~ msgid "X-Axis"
+#~ msgstr "X-Оса"
+
+#~ msgid "Y-Axis"
+#~ msgstr "Y-Оса"
+
+#~ msgid "Flip around (this may change the dimensions of the map):"
+#~ msgstr "Окрени около (ово може да промени димензије мапе):"
+
+#~ msgid "FG"
+#~ msgstr "Лице"
+
+#~ msgid "BG"
+#~ msgstr "Позадина"
+
+#~ msgid "The Battle for Wesnoth"
+#~ msgstr "Борба За Веснот"
+
+#~ msgid ""
+#~ "Warning: The file you have tried to load is corrupt. Loading anyway.\n"
+#~ msgstr ""
+#~ "Упозорење: Фајл који сте хтели отворити је покварен. Свеједно учитавам.\n"
+
+#~ msgid "File I/O Error while reading the game"
+#~ msgstr "Фајл Улазно/Излазна грешка се десила током читања игре"
+
+#~ msgid "Choose the campaign you want to play:"
+#~ msgstr "Изаберите коју кампању желите да играте:"
+
+#~ msgid "Difficulty"
+#~ msgstr "Тежина"
+
+#~ msgid "Select difficulty level:"
+#~ msgstr "Изабери ниво тежине:"
+
+#~ msgid "B"
+#~ msgstr "Б"
+
+#~ msgid "KB"
+#~ msgstr "КБ"
+
+#~ msgid "MB"
+#~ msgstr "МБ"
+
+#~ msgid "Connect to Server"
+#~ msgstr "Повежи се на Сервер"
+
+#, fuzzy
+#~ msgid "You will now connect to a server to download add-ons."
+#~ msgstr "Сад ћете се повезати са сервером за скидање кампања."
+
+#~ msgid "Server: "
+#~ msgstr "Сервер:"
+
+#~ msgid "Could not connect to host."
+#~ msgstr "Нисам се повезао са Сервером."
+
+#~ msgid "Error communicating with the server."
+#~ msgstr "Грешка у комуникацији са Сервером."
+
+#~ msgid "Version"
+#~ msgstr "Верзија"
+
+#~ msgid "Author"
+#~ msgstr "Аутор"
+
+#~ msgid "Downloads"
+#~ msgstr "Скинуто"
+
+#~ msgid "Size"
+#~ msgstr "Величина"
+
+#, fuzzy
+#~ msgid "Publish add-on: "
+#~ msgstr "Објави кампању:"
+
+#, fuzzy
+#~ msgid "Delete add-on: "
+#~ msgstr "Обрижи кампању:"
+
+#, fuzzy
+#~ msgid "There are no add-ons available for download from this server."
+#~ msgstr "Нема кампања доступних за скидање са овог сервера."
+
+#, fuzzy
+#~ msgid "Choose the add-on to download."
+#~ msgstr "Изаберите кампању за скидање."
+
+#, fuzzy
+#~ msgid "Downloading add-on..."
+#~ msgstr "Преузимам кампању ..."
+
+#, fuzzy
+#~ msgid "Add-on Installed"
+#~ msgstr "Кампања је Преузета"
+
+#, fuzzy
+#~ msgid "The add-on has been installed."
+#~ msgstr "Кампања је инсталирана."
+
+#~ msgid "Network communication error."
+#~ msgstr "Грешка у мрежној комуникацији."
+
+#~ msgid "Remote host disconnected."
+#~ msgstr "Удаљени домаћин је прекинуо везу."
+
+#~ msgid "Connection timed out"
+#~ msgstr "Конекција је истекла."
+
+#~ msgid "The server responded with an error: \""
+#~ msgstr "Сервер је одговорио са грешком: \""
+
+#~ msgid "Terms"
+#~ msgstr "Услови"
+
+#, fuzzy
+#~ msgid "Sending add-on"
+#~ msgstr "Шаљем кампању"
+
+#~ msgid "Response"
+#~ msgstr "Одговор"
+
+#~ msgid "Join Official Server"
+#~ msgstr "Придружи се Званичном Серверу"
+
+#~ msgid "Log on to the official Wesnoth multiplayer server"
+#~ msgstr "Укључи се у званични Веснот сервер за удружено играње."
+
+#~ msgid "Join Game"
+#~ msgstr "Придружи се Игри"
+
+#~ msgid "Join a server or hosted game"
+#~ msgstr "Придружи се серверу или домаћину"
+
+#~ msgid "Host Networked Game"
+#~ msgstr "Буди домаћин мрежној игри"
+
+#~ msgid "Host a game without using a server"
+#~ msgstr "Буди домаћин игри без кориштења Сервера"
+
+#~ msgid "Hotseat Game"
+#~ msgstr "Игра \"вруће столице\""
+
+#~ msgid "Play a multiplayer game sharing the same machine"
+#~ msgstr "Играј игру за више играча користећи један рачунар"
+
+#~ msgid "Human vs AI"
+#~ msgstr "Играч против Рачунара"
+
+#~ msgid "Play a game against AI opponents"
+#~ msgstr "Играј игру против вјештачких противника"
+
+#~ msgid "Login: "
+#~ msgstr "Идентификација:"
+
+#~ msgid "The game could not be loaded: "
+#~ msgstr "Игру није могуће учитати:"
+
+#~ msgid "Error while playing the game: "
+#~ msgstr "Грешка приликом играња игре:"
+
+#~ msgid "The game map could not be loaded: "
+#~ msgstr "Мапу игре није могуће учитати:"
+
+#~ msgid "Language"
+#~ msgstr "Језик"
+
+#~ msgid "Choose your preferred language:"
+#~ msgstr "Изабери жељени језик:"
+
+#~ msgid "The following add-on campaign(s) had errors and could not be loaded:"
+#~ msgstr "Следећа додатна кампања(е) има грешку и не може се учитати:"
+
+#~ msgid "ERROR DETAILS:"
+#~ msgstr "ДЕТАЉИ ГРЕШКЕ:"
+
+#~ msgid "Warning: Errors occurred while loading game configuration files: '"
+#~ msgstr ""
+#~ "Упозорење: Грешке су пронађене приликом учитавања игриних конфигурационих "
+#~ "фајлова."
+
+#~ msgid "' (The game will now exit)"
+#~ msgstr "' (Игра ће сад изаћи)"
+
+#~ msgid "Battle for Wesnoth"
+#~ msgstr "Борба За Веснот"
+
+#~ msgid "Victory:"
+#~ msgstr "Побједа:"
+
+#~ msgid "Defeat:"
+#~ msgstr "Пораз:"
+
+#~ msgid "Could not write to file"
+#~ msgstr "Не могу писати у фајл"
+
+#~ msgid "Advances to: "
+#~ msgstr "Напредује у:"
+
+#~ msgid "Abilities: "
+#~ msgstr "Могућности:"
+
+#, fuzzy
+#~ msgid "Cost: "
+#~ msgstr "Кретање:"
+
+#~ msgid "Alignment: "
+#~ msgstr "Карактер:"
+
+#~ msgid "Required XP: "
+#~ msgstr "Потребно ИСК:"
+
+#~ msgid "attacks"
+#~ msgstr "напада"
+
+#~ msgid "Type"
+#~ msgstr "Тип"
+
+#~ msgid "Strikes"
+#~ msgstr "Напада"
+
+#~ msgid "Range"
+#~ msgstr "Домет"
+
+#~ msgid "Special"
+#~ msgstr "Специјално"
+
+#~ msgid "Resistances"
+#~ msgstr "Отпорности"
+
+#~ msgid "Attack Type"
+#~ msgstr "Тип Напада"
+
+#~ msgid "Resistance"
+#~ msgstr "Отпорност"
+
+#~ msgid "Terrain Modifiers"
+#~ msgstr "Теренски Модификатори"
+
+#~ msgid "Terrain"
+#~ msgstr "Терен"
+
+#~ msgid "Defense"
+#~ msgstr "Одбрана"
+
+#, fuzzy
+#~ msgid "Movement Cost"
+#~ msgstr "Кретање"
+
+#~ msgid "or"
+#~ msgstr "или"
+
+#~ msgid ""
+#~ "This terrain acts as a keep, i.e., you can recruit units when a leader is "
+#~ "in a location with this terrain."
+#~ msgstr ""
+#~ "Овај терен се понаша као кула, тј. можете регрутовати јединице са њега "
+#~ "када се на њему налази вођа."
+
+#~ msgid ""
+#~ "This terrain acts as a castle, i.e., you can recruit units onto a "
+#~ "location with this terrain."
+#~ msgstr ""
+#~ "Овај терен се понаша као замак, тј. можете регрутовати јединице на "
+#~ "локацију овог терена."
+
+#~ msgid "This terrain gives healing."
+#~ msgstr "Овај терен лечи."
+
+#~ msgid " < Back"
+#~ msgstr "< Назад"
+
+#~ msgid "Forward >"
+#~ msgstr "Напред >"
+
+#~ msgid "The Battle for Wesnoth Help"
+#~ msgstr "Борба За Веснот - помоћ"
+
+#~ msgid "Parse error when parsing help text: "
+#~ msgstr "Грешка приликом тумачења \"Помоћ\" текста:"
+
+#~ msgid "Next Unit"
+#~ msgstr "Следећа Јединица"
+
+#~ msgid "Previous Unit"
+#~ msgstr "Претходна Јединица"
+
+#~ msgid "Hold Position"
+#~ msgstr "Задржи Позицију"
+
+#~ msgid "End Unit Turn"
+#~ msgstr "Заврши Потез ове Јединице"
+
+#~ msgid "Undo"
+#~ msgstr "Врати"
+
+#~ msgid "Redo"
+#~ msgstr "Понови"
+
+#~ msgid "Zoom In"
+#~ msgstr "Приближи"
+
+#~ msgid "Zoom Out"
+#~ msgstr "Удаљи"
+
+#~ msgid "Default Zoom"
+#~ msgstr "Нормалан приказ"
+
+#~ msgid "Accelerated"
+#~ msgstr "Убрзано"
+
+#~ msgid "Unit Description"
+#~ msgstr "Опис Јединице"
+
+#~ msgid "Repeat Recruit"
+#~ msgstr "Понови регрутацију"
+
+#~ msgid "Toggle Grid"
+#~ msgstr "Постави Мрежу"
+
+#~ msgid "Status Table"
+#~ msgstr "Табела Стања"
+
+#~ msgid "Mute"
+#~ msgstr "Занеми"
+
+#~ msgid "Speak"
+#~ msgstr "Причај"
+
+#~ msgid "Create Unit (Debug!)"
+#~ msgstr "Направи јединицу (Дебаг!)"
+
+#~ msgid "Change Unit Side (Debug!)"
+#~ msgstr "Промијени Страну Јединице (Дебаг!)"
+
+#~ msgid "Scenario Objectives"
+#~ msgstr "Задаци Сценарија"
+
+#~ msgid "Quit Game"
+#~ msgstr "Изађи из Игре"
+
+#~ msgid "Set Label"
+#~ msgstr "Постави Натпис"
+
+#~ msgid "Clear Labels"
+#~ msgstr "Уклони Натписе"
+
+#~ msgid "Show Enemy Moves"
+#~ msgstr "Прикажи Противничке Потезе"
+
+#~ msgid "Best Possible Enemy Moves"
+#~ msgstr "Најбољи Противнички Потези"
+
+#~ msgid "Play"
+#~ msgstr "Играј"
+
+#~ msgid "Reset"
+#~ msgstr "Рестартуј"
+
+#~ msgid "Stop"
+#~ msgstr "Стани"
+
+#~ msgid "Next Turn"
+#~ msgstr "Следећи потез"
+
+#~ msgid "Next Side"
+#~ msgstr "Следећа Страна"
+
+#~ msgid "Skip animation"
+#~ msgstr "Прескочи анимацију"
+
+#~ msgid "Set Terrain"
+#~ msgstr "Постави Терен"
+
+#~ msgid "New Map"
+#~ msgstr "Нова Мапа"
+
+#~ msgid "Load Map"
+#~ msgstr "Учитај Мапу"
+
+#~ msgid "Save Map"
+#~ msgstr "Сачувај Мапу"
+
+#~ msgid "Save As"
+#~ msgstr "Сачувај Као ..."
+
+#~ msgid "Set Player's keep"
+#~ msgstr "Постави Играчев ??keep??"
+
+#~ msgid "Flood Fill"
+#~ msgstr "Поплави"
+
+#~ msgid "Fill Selection"
+#~ msgstr "Испуни Одабрано"
+
+#~ msgid "Cut"
+#~ msgstr "Исијеци"
+
+#~ msgid "Copy"
+#~ msgstr "Копирај"
+
+#~ msgid "Paste"
+#~ msgstr "Залијепи"
+
+#~ msgid "Revert from Disk"
+#~ msgstr "Врати са Диска"
+
+#~ msgid "Flip Map"
+#~ msgstr "Окрени Мапу"
+
+#~ msgid "Select All"
+#~ msgstr "Изабери Све"
+
+#~ msgid "Draw Terrain"
+#~ msgstr "Исцртај Терен"
+
+#~ msgid "Refresh Image Cache"
+#~ msgstr "Освјежи Кеш Слика"
+
+#~ msgid "Delay Shroud Updates"
+#~ msgstr "Одуговлачи Освјежавање Сјенке"
+
+#~ msgid "Update Shroud Now"
+#~ msgstr "Освјежи Сјенку Сада"
+
+#~ msgid "Continue Move"
+#~ msgstr "Настави Потез"
+
+#~ msgid "Find Label or Unit"
+#~ msgstr "Нађи Ознаку или Јединицу"
+
+#~ msgid "Speak to Ally"
+#~ msgstr "Причај са Пријатељем"
+
+#~ msgid "Speak to All"
+#~ msgstr "Причај са Свима"
+
+#~ msgid "Help"
+#~ msgstr "Помоћ!"
+
+#~ msgid "View Chat Log"
+#~ msgstr "Погледај Запис Разговора"
+
+#~ msgid "Enter user command"
+#~ msgstr "Унеси корисничку команду"
+
+#~ msgid "Do you really want to quit?"
+#~ msgstr "Желите ли да изађете?"
+
+#~ msgid "Next"
+#~ msgstr "Даље"
+
+#~ msgid "Skip"
+#~ msgstr "Прескочи"
+
+#~ msgid "The End"
+#~ msgstr "Крај"
+
+#~ msgid "System default language"
+#~ msgstr "Системски језик"
+
+#~ msgid "?"
+#~ msgstr "?"
+
+#~ msgid "Map Generator"
+#~ msgstr "Генератор Мапе"
+
+#~ msgid "Players:"
+#~ msgstr "Играчи:"
+
+#~ msgid "Number of Hills:"
+#~ msgstr "Број Брда:"
+
+#~ msgid "Max Hill Size:"
+#~ msgstr "Макс. величина Брда"
+
+#~ msgid "Villages:"
+#~ msgstr "Села:"
+
+#~ msgid "Landform:"
+#~ msgstr "Облик:"
+
+#~ msgid "Roads Between Castles"
+#~ msgstr "Путеви међу замковима"
+
+#~ msgid "/1000 tiles"
+#~ msgstr "/1000 поља"
+
+#~ msgid "Coastal"
+#~ msgstr "Приобалан"
+
+#~ msgid "Inland"
+#~ msgstr "Континенталан"
+
+#~ msgid "Island"
+#~ msgstr "Острво"
+
+#~ msgid ""
+#~ "My lord, this unit is an experienced one, having advanced levels! Do you "
+#~ "really want to dismiss $noun?"
+#~ msgstr ""
+#~ "Ова јединица има искуства, са вишим нивоом! Сигурни сте да желите да "
+#~ "отпустите $noun?"
+
+#~ msgid ""
+#~ "My lord, this unit is close to advancing a level! Do you really want to "
+#~ "dismiss $noun?"
+#~ msgstr ""
+#~ "Ова јединица ускоро може напредовати! Желите ли да отпустите $noun ?"
+
+#~ msgid "her"
+#~ msgstr "њој"
+
+#~ msgid "him"
+#~ msgstr "њему"
+
+#~ msgid "Recruits"
+#~ msgstr "Регрутује"
+
+#~ msgid "Recalls"
+#~ msgstr "Призива"
+
+#~ msgid "Advancements"
+#~ msgstr "Напредује"
+
+#~ msgid "Losses"
+#~ msgstr "Губи"
+
+#~ msgid "Kills"
+#~ msgstr "Убија"
+
+#~ msgid "Damage Inflicted"
+#~ msgstr "Нанета Штета"
+
+#~ msgid "Damage Taken"
+#~ msgstr "Примљена Штета"
+
+#~ msgid "Damage Inflicted (EV)"
+#~ msgstr "Нанета Штета (ЕВ)"
+
+#~ msgid "Damage Taken (EV)"
+#~ msgstr "Примљена Штета (ЕВ)"
+
+#~ msgid "Statistics"
+#~ msgstr "Статистике"
+
+#~ msgid "Moves"
+#~ msgstr "Кретања"
+
+#~ msgid "Location"
+#~ msgstr "Локација"
+
+#~ msgid "Unit List"
+#~ msgstr "Листа Јединица"
+
+#~ msgid "Leader"
+#~ msgstr "Вођа"
+
+#~ msgid "Gold"
+#~ msgstr "Злато"
+
+#~ msgid "Villages"
+#~ msgstr "Села"
+
+#~ msgid "Upkeep"
+#~ msgstr "Трошкови"
+
+#~ msgid "Income"
+#~ msgstr "Приход"
+
+#~ msgid "Name:"
+#~ msgstr "Име:"
+
+#~ msgid "Error"
+#~ msgstr "Грешка"
+
+#~ msgid ""
+#~ "Save names may not contain colons, slashes, or backslashes. Please choose "
+#~ "a different name."
+#~ msgstr ""
+#~ "Имена снимљених игара не смеју садржавати колоне или косе црте. Молим Вас "
+#~ "да изаберете другачије име."
+
+#~ msgid "Saved"
+#~ msgstr "Сачувано"
+
+#~ msgid "The game has been saved"
+#~ msgstr "Игра је сачувана"
+
+#~ msgid "The game could not be saved"
+#~ msgstr "Игру није могуће сачувати"
+
+#~ msgid "Auto-Save"
+#~ msgstr "Аутоматско-Сачувавање"
+
+#~ msgid "Could not auto save the game. Please save the game manually."
+#~ msgstr ""
+#~ "Не могу да извришим ауто спашавање игре. Молим Вас да ручно сачувате игру."
+
+#~ msgid "Chat Log"
+#~ msgstr "Биљежница Разговора"
+
+#~ msgid "Message:"
+#~ msgstr "Порука:"
+
+#~ msgid "Send to allies only"
+#~ msgstr "Пошаљи само пријатељима"
+
+#~ msgid "unit^Gold"
+#~ msgstr "Злато"
+
+#~ msgid "You have no units available to recruit."
+#~ msgstr "Нема јединица за регрутацију."
+
+#~ msgid "Recruit"
+#~ msgstr "Регрутуј"
+
+#~ msgid "Select unit:"
+#~ msgstr "Изаберите јединицу:"
+
+#~ msgid "You don't have enough gold to recruit that unit"
+#~ msgstr "Немате довољно злата да регрутујете ту јединицу"
+
+#~ msgid "You are separated from your soldiers and may not recall them"
+#~ msgstr "Отсечени сте од ваших војника и не можете их призвати"
+
+#~ msgid ""
+#~ "There are no troops available to recall\n"
+#~ "(You must have veteran survivors from a previous scenario)"
+#~ msgstr ""
+#~ "Нема ветерана расположивих за призивање.\n"
+#~ "(Морате имати преживеле јединице из претходног сценарија)"
+
+#~ msgid "Level"
+#~ msgstr "ниво"
+
+#~ msgid "Dismiss Unit"
+#~ msgstr "Отпусти Јединицу"
+
+#~ msgid "Recall"
+#~ msgstr "Призови"
+
+#~ msgid "You must have at least $cost gold pieces to recall a unit"
+#~ msgstr "Морате имати барем $cost злата да бисте призвали ветеране"
+
+#~ msgid ""
+#~ "You have not started your turn yet. Do you really want to end your turn?"
+#~ msgstr "Нисте ни почели свој потез! Заиста бећ желите да га завршите?"
+
+#~ msgid "Some units have movement left. Do you really want to end your turn?"
+#~ msgstr ""
+#~ "Неке јединице имају преосталог кретања. Сигурно желите да завршите потез?"
+
+#~ msgid "Rename Unit"
+#~ msgstr "Промени Име"
+
+#~ msgid "Place Label"
+#~ msgstr "Постави Натпис"
+
+#~ msgid "Label:"
+#~ msgstr "Натпис:"
+
+#~ msgid "Search"
+#~ msgstr "Тражи"
+
+#, fuzzy
+#~ msgid "Invalid username: "
+#~ msgstr "Изабрана је неисправна епоха "
+
+#~ msgid "prompt^Command:"
+#~ msgstr "Команда"
+
+#~ msgid "Attacker"
+#~ msgstr "Нападач"
+
+#~ msgid "Defender"
+#~ msgstr "Бранилац"
+
+#, fuzzy
+#~ msgid " resistance vs "
+#~ msgstr "Отпорности"
+
+#, fuzzy
+#~ msgid " vulnerability vs "
+#~ msgstr "нападачева рањивост vs"
+
+#, fuzzy
+#~ msgid "Slowed"
+#~ msgstr "успорен"
+
+#, fuzzy
+#~ msgid "Time of day"
+#~ msgstr "Време дана"
+
+#, fuzzy
+#~ msgid "Leadership"
+#~ msgstr "вођство"
+
+#, fuzzy
+#~ msgid "Total damage"
+#~ msgstr "укупна штета"
+
+#, fuzzy
+#~ msgid "No usable weapon"
+#~ msgstr "Изабери Оружије:"
+
+#~ msgid "Damage Calculations"
+#~ msgstr "Рачунање Штете"
+
+#~ msgid "vs"
+#~ msgstr "против"
+
+#~ msgid "Attack Enemy"
+#~ msgstr "Нападни Противника"
+
+#~ msgid "Choose weapon:"
+#~ msgstr "Изабери Оружије:"
+
+#~ msgid "Connect to Host"
+#~ msgstr "Повежи се са Домаћином"
+
+#~ msgid "Choose host to connect to: "
+#~ msgstr "Изабери домаћина за повезивање:"
+
+#~ msgid "Connecting to Server..."
+#~ msgstr "Повезујем се са Сервером ..."
+
+#~ msgid "Reading from Server..."
+#~ msgstr "Читам са Сервера ..."
+
+#~ msgid ""
+#~ "The server requires version '$version1' while you are using version "
+#~ "'$version2'"
+#~ msgstr "Сервер захтева верзију '$version1' а Ви имате верзију '$version2'"
+
+#~ msgid "You must log in to this server"
+#~ msgstr "Морате се пријавити на овај сервер"
+
+#~ msgid "No multiplayer sides available in this game"
+#~ msgstr "Ова игра није за више играча"
+
+#~ msgid "Era not available"
+#~ msgstr "Ера није доступна"
+
+#~ msgid "No multiplayer sides found"
+#~ msgstr "Нема могућности за више играча"
+
+#~ msgid "("
+#~ msgstr "("
+
+#~ msgid ")"
+#~ msgstr ")"
+
+#, fuzzy
+#~ msgid "Default AI"
+#~ msgstr "Уобичајено"
+
+#~ msgid "(Vacant slot)"
+#~ msgstr "(Слободно место)"
+
+#~ msgid "Anonymous local player"
+#~ msgstr "Анониман локални играч"
+
+#~ msgid "Computer player"
+#~ msgstr "Рачунар"
+
+#~ msgid "(Empty slot)"
+#~ msgstr "(Празно место)"
+
+#~ msgid "No non-random sides in the current era"
+#~ msgstr "Без не-случајних страна у изабраној епоси"
+
+#~ msgid "Unable to find a leader type for faction $faction"
+#~ msgstr "Неуспјело је тражење типа вође за фракцију $faction"
+
+#~ msgid "Game Lobby"
+#~ msgstr "Лоби игре"
+
+#~ msgid "Team"
+#~ msgstr "Екипа"
+
+#~ msgid "Player/Type"
+#~ msgstr "Играч/Тип"
+
+#~ msgid "Faction"
+#~ msgstr "Страна"
+
+#~ msgid "Color"
+#~ msgstr "Боја"
+
+#~ msgid "Computer vs Computer"
+#~ msgstr "Рачунар - Рачунар"
+
+#~ msgid "I'm Ready"
+#~ msgstr "Ја Сам Спреман"
+
+#~ msgid "Cancel"
+#~ msgstr "Одустани"
+
+#~ msgid "The scenario is invalid because it has no sides."
+#~ msgstr "Сценарио је неисправан јер нема страна."
+
+#~ msgid "Network Player"
+#~ msgstr "Мрежни Играч"
+
+#~ msgid "Local Player"
+#~ msgstr "Локални Играч"
+
+#~ msgid "Computer Player"
+#~ msgstr "Рачунарски Играч"
+
+#~ msgid "Empty"
+#~ msgstr "Празан"
+
+#~ msgid "This is not a multiplayer save"
+#~ msgstr "Ово није мултиплејер снимак игре"
+
+#~ msgid "Cannot find era $era"
+#~ msgstr "Не могу наћи епоху $era"
+
+#, fuzzy
+#~ msgid ""
+#~ "Victory:\n"
+#~ "@Defeat enemy leader(s)"
+#~ msgstr ""
+#~ "Победа\n"
+#~ "@Порази непријатељског вођу"
+
+#~ msgid "Waiting for players to join..."
+#~ msgstr "Чекам играче да се придруже..."
+
+#~ msgid "Create Game"
+#~ msgstr "Направи Игру"
+
+#~ msgid "Time limit"
+#~ msgstr "Временско ограничење"
+
+#~ msgid "Name of game:"
+#~ msgstr "Име игре:"
+
+#~ msgid "Era:"
+#~ msgstr "Ера:"
+
+#~ msgid "Map to play:"
+#~ msgstr "Мапа за игру:"
+
+#~ msgid "Use map settings"
+#~ msgstr "Користи подешавања мапе"
+
+#~ msgid "Fog Of War"
+#~ msgstr "Ратна Магла"
+
+#~ msgid "Observers"
+#~ msgstr "Посматрачи"
+
+#~ msgid "OK"
+#~ msgstr "Уреду"
+
+#~ msgid "Regenerate"
+#~ msgstr "Регенерише"
+
+#~ msgid "Settings..."
+#~ msgstr "Поставке..."
+
+#~ msgid "The maximum number of turns the game can last"
+#~ msgstr "Максималан број потеза колико игра може трајати"
+
+#~ msgid "Enables user time limit"
+#~ msgstr "Омогућава ограничавање времена играча"
+
+#~ msgid "The amount of income each village yields per turn"
+#~ msgstr "Количина злата којег свако село произведе сваки потез"
+
+#~ msgid "The amount of experience a unit needs to advance"
+#~ msgstr "Количина искуства које је потребна да би јединица напредовала"
+
+#~ msgid "Use scenario specific settings"
+#~ msgstr "Користи снераријска специфична подешавања"
+
+#~ msgid "Enemy units cannot be seen unless they are in range of your units"
+#~ msgstr ""
+#~ "Непријатељске јединице није могуће видети осим ако су у видокругу ваших "
+#~ "јединица"
+
+#~ msgid "The map is unknown until your units explore it"
+#~ msgstr "Мапа је непозната док је ваше јединице не истраже"
+
+#~ msgid "Allow users who are not playing to watch the game"
+#~ msgstr "Дозволи корисницима који не играју да посматрају игру"
+
+#~ msgid "Share View"
+#~ msgstr "Дели Поглед"
+
+#~ msgid "Share Maps"
+#~ msgstr "Дели Мапе"
+
+#~ msgid "Share None"
+#~ msgstr "Дели Ништа"
+
+#~ msgid "No multiplayer sides."
+#~ msgstr "Нема страна за више играча."
+
+#~ msgid "No eras found"
+#~ msgstr "Нема епоха"
+
+#~ msgid "$login's game"
+#~ msgstr "$login-ова игра"
+
+#~ msgid "Invalid era selected"
+#~ msgstr "Изабрана је неисправна епоха "
+
+#~ msgid "You must enter a name."
+#~ msgstr "Морате унети име."
+
+#~ msgid "Turns: "
+#~ msgstr "Потеза:"
+
+#~ msgid "Unlimited Turns"
+#~ msgstr "Бесконачно Потеза"
+
+#, fuzzy
+#~ msgid "Init. Limit: "
+#~ msgstr "Почетно Време:"
+
+#, fuzzy
+#~ msgid "Turn Bonus: "
+#~ msgstr "Потеза:"
+
+#, fuzzy
+#~ msgid "Reservoir: "
+#~ msgstr "Сервер:"
+
+#, fuzzy
+#~ msgid "Action Bonus: "
+#~ msgstr "Акције"
+
+#~ msgid "Village Gold: "
+#~ msgstr "Злата по Селу:"
+
+#~ msgid "Experience Modifier: "
+#~ msgstr "Коефициент Искуства:"
+
+#~ msgid "Players: "
+#~ msgstr "Играчи:"
+
+#~ msgid "Map"
+#~ msgstr "Мапа"
+
+#~ msgid "Settings"
+#~ msgstr "Подешавања"
+
+#~ msgid "Status"
+#~ msgstr "Стање"
+
+#~ msgid "--no games open--"
+#~ msgstr "<нема отворених игара>"
+
+#~ msgid "Vacant Slot:"
+#~ msgstr "Слободно Место:"
+
+#~ msgid "Vacant Slots:"
+#~ msgstr "Слободна Места:"
+
+#~ msgid "none"
+#~ msgstr "ниједан"
+
+#~ msgid "Observe Game"
+#~ msgstr "Посматрај Игру"
+
+#, fuzzy
+#~ msgid "Quick Replays"
+#~ msgstr "Снимак"
+
+#~ msgid "Invalid Color"
+#~ msgstr "Неправилна Боја"
+
+#~ msgid "Leader: "
+#~ msgstr "Вођа:"
+
+#~ msgid "Recruits: "
+#~ msgstr "Регрути:"
+
+#~ msgid "Waiting for game to start..."
+#~ msgstr "Чекам да игра почне ..."
+
+#~ msgid "Getting game data..."
+#~ msgstr "Преузимам податке о игри ..."
+
+#~ msgid "Choose your side:"
+#~ msgstr "Изаберите вашу страну:"
+
+#~ msgid "Client disconnected"
+#~ msgstr "Веза са клијентом је прекинута"
+
+#~ msgid "Could not add socket to socket set"
+#~ msgstr "Не могу додати утичницу сету утичница."
+
+#~ msgid "The file you have tried to load is corrupt"
+#~ msgstr "Фајл који сте покушали да отворите је корумпиран"
+
+#~ msgid "Defeat"
+#~ msgstr "Пораз"
+
+#~ msgid "You have been defeated!"
+#~ msgstr "Поражени сте!"
+
+#~ msgid " replay"
+#~ msgstr "снимак"
+
+#~ msgid "Downloading next level..."
+#~ msgstr "Преузимам следећи ниво ..."
+
+#, fuzzy
+#~ msgid "Do you want to save your game? (Also erases Auto-Save files)"
+#~ msgstr "Желите ли да сачувате игру у току?"
+
+#~ msgid "Game Over"
+#~ msgstr "Крај Игре"
+
+#~ msgid "The game is over."
+#~ msgstr "Крај игре."
+
+#~ msgid "Remaining gold: "
+#~ msgstr "Преостало злато:"
+
+#~ msgid "per turn"
+#~ msgstr "по потезу"
+
+#~ msgid "Bonus: "
+#~ msgstr "Бонус:"
+
+#~ msgid "Gold: "
+#~ msgstr "Злато:"
+
+#~ msgid "80% of gold is retained for the next scenario"
+#~ msgstr "80% вашег злата је пренесено у следећи сценарио"
+
+#~ msgid "Retained Gold: "
+#~ msgstr "Сачувано Злато:"
+
+#~ msgid "Victory"
+#~ msgstr "Победа"
+
+#~ msgid "You have emerged victorious!"
+#~ msgstr "Победили сте!"
+
+#~ msgid "Scenario Report"
+#~ msgstr "Извештај Сценарија"
+
+#~ msgid ""
+#~ "A network disconnection has occurred, and the game cannot continue. Do "
+#~ "you want to save the game?"
+#~ msgstr ""
+#~ "Мрежна веза је прекинута и игра се не може наставити. Желите ли да "
+#~ "сачувате игру?"
+
+#~ msgid "It is now your turn"
+#~ msgstr "Ви сте на реду"
+
+#~ msgid "Replace with AI"
+#~ msgstr "Замени са AI (вештачка интелигенција)"
+
+#~ msgid "Replace with local player"
+#~ msgstr "Замени са локалним играчем"
+
+#~ msgid "Abort game"
+#~ msgstr "Прекини игру"
+
+#~ msgid "Replace with "
+#~ msgstr "Замени са"
+
+#~ msgid "has left the game. What do you want to do?"
+#~ msgstr "је напустио игру. Шта желите да учините?"
+
+#~ msgid "player"
+#~ msgstr "играч"
+
+#~ msgid ""
+#~ "The video mode could not be changed. Your window manager must be set to "
+#~ "16 bits per pixel to run the game in windowed mode. Your display must "
+#~ "support 1024x768x16 to run the game full screen."
+#~ msgstr ""
+#~ "Промјена видео мода није успјела. Ваш менаџер прозора мора подржавати 16 "
+#~ "бита по пикселу да би покренуо игру у прозору. Ваш дисплеј мора "
+#~ "подржавати 1024џ768џ16 да бисте покренули игру преко цијелог екрана."
+
+#~ msgid "Accelerated Speed"
+#~ msgstr "Убрзано"
+
+#~ msgid "Skip AI Moves"
+#~ msgstr "Прескочи Потезе А.И.-а"
+
+#, fuzzy
+#~ msgid "Show Lobby Joins"
+#~ msgstr "Прикажи уласке у лоби"
+
+#~ msgid "Show Floating Labels"
+#~ msgstr "Прикажи Плутајуће Натписе"
+
+#~ msgid "Turn Dialog"
+#~ msgstr "Обавијештење на Потез"
+
+#~ msgid "Turn Bell"
+#~ msgstr "Звучно Обавијештење"
+
+#~ msgid "Show Team Colors"
+#~ msgstr "Прикажи Боје Тимова"
+
+#~ msgid "Show Color Cursors"
+#~ msgstr "Прикажи Показиваче у Боји"
+
+#~ msgid "Show Haloing Effects"
+#~ msgstr "Прикажи Хало Ефекте"
+
+#~ msgid "Theme"
+#~ msgstr "Тема"
+
+#~ msgid "Adjust Gamma"
+#~ msgstr "Подеси Гаму"
+
+#~ msgid "Reverse Time Graphics"
+#~ msgstr "Обрнут смјер Сунца"
+
+#~ msgid "Sound effects"
+#~ msgstr "Звучни ефекти"
+
+#~ msgid "Chat Timestamping"
+#~ msgstr "Чет Време"
+
+#~ msgid "Music Volume:"
+#~ msgstr "Јачина Музике"
+
+#~ msgid "SFX Volume:"
+#~ msgstr "Јачина Ефеката"
+
+#~ msgid "Gamma:"
+#~ msgstr "Гама"
+
+#~ msgid "Sound effects on/off"
+#~ msgstr "Звучни ефекти укључено/искључено"
+
+#~ msgid "Change the sound effects volume"
+#~ msgstr "Промијени јачину звучних ефеката"
+
+#~ msgid "Music on/off"
+#~ msgstr "Музика укључена/искључена"
+
+#~ msgid "Change the music volume"
+#~ msgstr "Промијени јачину музике"
+
+#~ msgid "Change the speed of scrolling around the map"
+#~ msgstr "Промијени брзину клизача мапе"
+
+#~ msgid "Set the amount of chat lines shown"
+#~ msgstr "Постави број линија у чет оквиру"
+
+#~ msgid "Add a timestamp to chat messages"
+#~ msgstr "Додај време у чет порукама"
+
+#~ msgid "Change the brightness of the display"
+#~ msgstr "Промијени свјетлину приказа"
+
+#~ msgid "Choose whether the game should run full screen or in a window"
+#~ msgstr "Изабери да ли да се игра покреће преко цијелог екрана или у прозору"
+
+#~ msgid "Make units move and fight faster"
+#~ msgstr "Направи да се јединице крећу брже"
+
+#~ msgid "Do not animate AI units moving"
+#~ msgstr "Немој анимирати јединице А.И.-а приликом кретања"
+
+#~ msgid "Overlay a grid onto the map"
+#~ msgstr "Сложи мрежу на мапу"
+
+#~ msgid "Show messages about players joining the multiplayer lobby"
+#~ msgstr "Прикажи поруке и играчима који улазе у мултиплејер лоби"
+
+#~ msgid "Show text above a unit when it is hit to display damage inflicted"
+#~ msgstr "Прикажи текст изнад јединица који показује нанијету штету"
+
+#~ msgid "Change the resolution the game runs at"
+#~ msgstr "Промијени резолуцију у којо игра ради"
+
+#~ msgid "Change the theme the game runs with"
+#~ msgstr "Промени тему са којојм игра ради"
+
+#~ msgid "Display a dialog at the beginning of your turn"
+#~ msgstr "Прикажи поруку на почетку твог потеза"
+
+#~ msgid "Play a bell sound at the beginning of your turn"
+#~ msgstr "Зазвони на почетку твог потеза"
+
+#~ msgid ""
+#~ "Show a colored circle around the base of each unit to show which side it "
+#~ "is on"
+#~ msgstr ""
+#~ "Прикажи обојени круг око базе сваке јединице да би се јасније видело коме "
+#~ "припада та јединица"
+
+#~ msgid "Choose whether the sun moves left-to-right or right-to-left"
+#~ msgstr "Изабери да ли се сунце помијера слијева на десно или обрнуто"
+
+#~ msgid "Use colored mouse cursors (may be slower)"
+#~ msgstr "Користи обојене показиваче (може успорити)"
+
+#~ msgid "Use graphical special effects (may be slower)"
+#~ msgstr ""
+#~ "Користи специјалне графичке ефекте (може успорити игру на слабијим "
+#~ "конфигурацијама)"
+
+#~ msgid "View and configure keyboard shortcuts"
+#~ msgstr "Види и подеси скраћенице"
+
+#~ msgid "Chat Lines: "
+#~ msgstr "Чет линије:"
+
+#~ msgid "yes"
+#~ msgstr "Да"
+
+#~ msgid "no"
+#~ msgstr "Не"
+
+#~ msgid "Prefs section^General"
+#~ msgstr "Генерално"
+
+#~ msgid "Prefs section^Display"
+#~ msgstr "Приказ"
+
+#~ msgid "Prefs section^Sound"
+#~ msgstr "Звук"
+
+#~ msgid "Prefs section^Multiplayer"
+#~ msgstr "Мултиплејер"
+
+#~ msgid "Advanced section^Advanced"
+#~ msgstr "Напредно"
+
+#~ msgid "There are no alternative video modes available"
+#~ msgstr "Нема алтернативних видео модова"
+
+#~ msgid "Choose Resolution"
+#~ msgstr "Изабери резолуцију"
+
+#~ msgid "Hotkey Settings"
+#~ msgstr "Подешавање Скраћеница"
+
+#~ msgid "Press desired Hotkey"
+#~ msgstr "Притисни жељену Скраћеницу"
+
+#~ msgid "Action"
+#~ msgstr "Акције"
+
+#~ msgid "Binding"
+#~ msgstr "Повезивања"
+
+#~ msgid "Change Hotkey"
+#~ msgstr "Промијени Скраћеницу"
+
+#~ msgid "Save Hotkeys"
+#~ msgstr "Сачувај Скраћеницe"
+
+#~ msgid "This Hotkey is already in use."
+#~ msgstr "Ова Скраћеница је већ у употреби"
+
+#~ msgid "Saved Theme Preference: "
+#~ msgstr "Сачувана Подешавања Тема:"
+
+#~ msgid "New theme will take effect on next new or loaded game."
+#~ msgstr ""
+#~ "Нова тема ће узети ефекта тек након покретања нове или учитавања игре."
+
+#~ msgid "No known themes.  Try changing from within an existing game."
+#~ msgstr "Нема познатих тема. Покушајте промјенити из већ постојеће игре."
+
+#~ msgid ""
+#~ "This unit is invisible. It cannot be seen or attacked by enemy units."
+#~ msgstr ""
+#~ "Ова јединица је невидљива. Непријатељ је не може видети нити напасти."
+
+#~ msgid "invisible: "
+#~ msgstr "невидљиво:"
+
+#~ msgid ""
+#~ "This unit has been slowed. It will only deal half its normal damage when "
+#~ "attacking."
+#~ msgstr ""
+#~ "Ова јединица је успорена. Нанеће само половину нормалне штете када напада."
+
+#~ msgid "slowed: "
+#~ msgstr "успорено:"
+
+#~ msgid ""
+#~ "This unit is poisoned. It will lose 8 HP every turn until it can seek a "
+#~ "cure to the poison in a village or from a friendly unit with the 'cures' "
+#~ "ability.\n"
+#~ "\n"
+#~ "Units cannot be killed by poison alone. The poison will not reduce it "
+#~ "below 1 HP."
+#~ msgstr ""
+#~ "Ова јединица је отрована. Константо ће губити по 8 ЕН сваки потез док год "
+#~ "се не излечи остајући један потез у селу или поред јединице са вештином "
+#~ "\"лечења\".\n"
+#~ "\n"
+#~ "Јединице не могу бити убијене само са отровом. Отров неће смањити испод 1 "
+#~ "ЕН."
+
+#~ msgid "poisoned: "
+#~ msgstr "отровано:"
+
+#~ msgid "This unit has been turned to stone. It may not move or attack."
+#~ msgstr ""
+#~ "Ова јединица је претворена у камен. Она не може да се креће нити да "
+#~ "напада."
+
+#~ msgid "stone: "
+#~ msgstr "камен:"
+
+#~ msgid "damage"
+#~ msgstr "штета"
+
+#~ msgid "weapon range: "
+#~ msgstr "домет оружија:"
+
+#~ msgid "damage type: "
+#~ msgstr "тип штете:"
+
+#~ msgid "Lawful units: "
+#~ msgstr "Добре јединице:"
+
+#~ msgid "Neutral units: "
+#~ msgstr "Неутралне јединице:"
+
+#~ msgid "Chaotic units: "
+#~ msgstr "Мрачне јединице:"
+
+#~ msgid "Owned village"
+#~ msgstr "Освојено село"
+
+#~ msgid "Enemy village"
+#~ msgstr "Непријатељско село"
+
+#~ msgid "Allied village"
+#~ msgstr "Савезничко село"
+
+#~ msgid "Observers:"
+#~ msgstr "Посматрачи:"
+
+#~ msgid "Unexpected closing tag"
+#~ msgstr "Неочекиван затворени таг"
+
+#~ msgid "Empty variable name"
+#~ msgstr "Празно име варијабле"
+
+#~ msgid "Unterminated quoted string"
+#~ msgstr "Незавршен текст под наводницима"
+
+#~ msgid " included from "
+#~ msgstr " укључено са"
+
+#~ msgid "$error at $pos"
+#~ msgstr "$error код $pos"
+
+#~ msgid "Yes"
+#~ msgstr "Да"
+
+#~ msgid "-- The Tome of Wesnoth"
+#~ msgstr "-- Веснотов Том"
+
+#~ msgid "TitleScreen button^Tutorial"
+#~ msgstr "Туторијал"
+
+#~ msgid "TitleScreen button^Campaign"
+#~ msgstr "Кампања"
+
+#~ msgid "TitleScreen button^Multiplayer"
+#~ msgstr "Мултиплејер"
+
+#~ msgid "TitleScreen button^Load"
+#~ msgstr "Учитај"
+
+#, fuzzy
+#~ msgid "TitleScreen button^Get Add-ons"
+#~ msgstr "Учитај"
+
+#~ msgid "TitleScreen button^Language"
+#~ msgstr "Језик"
+
+#~ msgid "TitleScreen button^Preferences"
+#~ msgstr "Поставке"
+
+#~ msgid "About"
+#~ msgstr "О игри"
+
+#~ msgid "TitleScreen button^Quit"
+#~ msgstr "Затвори"
+
+#~ msgid "Start a tutorial to familiarize yourself with the game"
+#~ msgstr "Започни туторијал за упознавање са игром"
+
+#~ msgid "Start a new single player campaign"
+#~ msgstr "Започни нову кампању"
+
+#~ msgid ""
+#~ "Play multiplayer (hotseat, LAN, or Internet), or a single scenario "
+#~ "against the AI"
+#~ msgstr ""
+#~ "Играј мултиплејер (врућа столица, локална мрежа или интернет), или "
+#~ "сценарио против вештачке интелигенције."
+
+#~ msgid "Load a single player saved game"
+#~ msgstr "Учитај игру за једног играча"
+
+#~ msgid "Change the language"
+#~ msgstr "Промени језик"
+
+#~ msgid "Configure the game's settings"
+#~ msgstr "Подеси игру"
+
+#~ msgid "View the credits"
+#~ msgstr "Погледај заслуге"
+
+#~ msgid "Quit the game"
+#~ msgstr "Изађи из игре"
+
+#~ msgid "More"
+#~ msgstr "Више"
+
+#~ msgid "Help Wesnoth by sending us information"
+#~ msgstr "Помозите Весноту шаљући нам информације"
+
+#~ msgid "; "
+#~ msgstr ";"
+
+#~ msgid "XP to advance"
+#~ msgstr "ИСК за напредовање"
+
+#~ msgid ": "
+#~ msgstr ":"
+
+#~ msgid "strikes"
+#~ msgstr "удара"
+
+#~ msgid "chaotic"
+#~ msgstr "мрачна страна"
+
+#~ msgid "lawful"
+#~ msgstr "добра страна"
+
+#~ msgid "neutral"
+#~ msgstr "неутрална страна"
+
+#~ msgid ""
+#~ "Wesnoth relies on volunteers like yourself for feedback, especially "
+#~ "beginners and new players.  Wesnoth keeps summaries of your games: you "
+#~ "can help us improve game play by giving permission to send these "
+#~ "summaries (anonymously) to wesnoth.org.\n"
+#~ msgstr ""
+#~ "Веснот се ослања на волонтере попут вас ради повратних информација, "
+#~ "поготово почетника и нових играча. Веснот чува прегледе ваших игара: "
+#~ "можете нам помоћи у изградњи игре дајући нам за право да те прегледе "
+#~ "игара (анонимно!) пошаљемо на wesnoth.org.\n"
+
+#, fuzzy
+#~ msgid "You can view the results at:"
+#~ msgstr "Резултати се могу видети код"
+
+#~ msgid "Help us make Wesnoth better for you!"
+#~ msgstr "Помозите нам да направимо Веснот бољим за Вас!"
+
+#~ msgid "Delete File"
+#~ msgstr "Избриши Фајл"
+
+#~ msgid "Deletion of the file failed."
+#~ msgstr "Брисање фајла није успело."
