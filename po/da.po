@@ -1,64 +1,79 @@
+# Danish translation of Wesnoth_Holdem (da.po)
+# Dansk oversættelse for Wesnoth_Holdem (da.po).
+# Copyright (C) 2007 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Joe Hansen <joedalton2@yahoo.dk>, 2007.
+# http://svn.berlios.de/svnroot/repos/wescamp-i18n/Wesnoth_Holdem-po/po/
+# 
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-13 13:59+0100\n"
-"PO-Revision-Date: 2006-01-01 16:37+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2007-02-21 14:38+0100\n"
+"Last-Translator: Joe Hansen\n"
+"Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+# Har ikke fundet et brugt dansk navn. Alle pokersiderne bruger Hold'em 
+# (det er Texas Hold'em). Tror det er ret internationalt.
 #: Wesnoth_Holdem.cfg:8 Wesnoth_Holdem/scenarios/holdem-intro.cfg:5
 msgid "Wesnoth Hold'em"
-msgstr ""
+msgstr "Wesnoth Hold'em"
 
 #: Wesnoth_Holdem.cfg:11
 msgid " (Version"
-msgstr ""
+msgstr " (Version"
 
 #: Wesnoth_Holdem.cfg:11
 msgid "Play Texas Hold'em using Wesnoth units."
-msgstr ""
+msgstr "Spil Texas Hold'em med Wesnoth enheder."
 
 #: Wesnoth_Holdem.cfg:15
 msgid "&human-queen.png=Easy;*&warrior-king.png=Normal;&elvish-sylph.png=Hard"
-msgstr ""
+msgstr "&human-queen.png=Let;*&warrior-king.png=Normal;&elvish-sylph.png=Svær"
 
 #: Wesnoth_Holdem/scenarios/holdem-game.cfg:19
 #: Wesnoth_Holdem/units/Holdem_Horse.cfg:4
 msgid "Holdem Horse"
-msgstr ""
+msgstr "Holdem hest"
 
 #: Wesnoth_Holdem/scenarios/holdem-game.cfg:92
 msgid "It is round |$holdem_round| of |$num_rounds| and I have the button."
-msgstr ""
+msgstr "Det er runde |$holdem_round| af |$num_rounds| og det er min tur."
 
 #: Wesnoth_Holdem/scenarios/holdem-game.cfg:181
 msgid "I won |$pot| with |$hand_string|."
-msgstr ""
+msgstr "Jeg vandt |$pot| med |$hand_string|."
 
 #: Wesnoth_Holdem/scenarios/holdem-game.cfg:201
 msgid "I have the most gold."
-msgstr ""
+msgstr "Jeg har mest guld."
 
+# Rent gætværk fra min side. Har læst et par danske 
+# pokersiders hjælp til spillet og selv om de er på dansk, 
+# så bruger de de engelske udtryk. Tror faktisk der er en 
+# fejl i den engelske her, for i Hold'em hedder det Bette 
+# (ikke bet) som jeg læser siderne. Kan også være forøg
 #: Wesnoth_Holdem/scenarios/holdem-game.cfg:859
 msgid "Bet/Raise 10"
-msgstr ""
+msgstr "Sats/øg 10"
 
 #: Wesnoth_Holdem/scenarios/holdem-game.cfg:865
 msgid "Bet/Raise 20"
-msgstr ""
+msgstr "Sats/øg 20"
 
 #: Wesnoth_Holdem/scenarios/holdem-game.cfg:871
 msgid "Bet/Raise 50"
-msgstr ""
+msgstr "Sats/øg 50"
 
 #: Wesnoth_Holdem/scenarios/holdem-game.cfg:877
 msgid "Bet/Raise 100"
-msgstr ""
+msgstr "Sats/øg 100"
 
 #: Wesnoth_Holdem/scenarios/holdem-game.cfg:883
 msgid "Quit"
@@ -66,46 +81,46 @@ msgstr "Afslut"
 
 #: Wesnoth_Holdem/scenarios/holdem-game.cfg:898
 msgid "I have |$gambler[0].hand_text|. It's my bet."
-msgstr ""
+msgstr "Jeg har |$gambler[0].hand_text|. Det er min satsning."
 
 #: Wesnoth_Holdem/scenarios/holdem-game.cfg:900
 #: Wesnoth_Holdem/scenarios/holdem-game.cfg:1116
 #: Wesnoth_Holdem/scenarios/holdem-game.cfg:1134
 msgid "Check"
-msgstr ""
+msgstr "Tjek"
 
 #: Wesnoth_Holdem/scenarios/holdem-game.cfg:911
 msgid "I have |$gambler[0].hand_text|. It's |$player_bet| to call."
-msgstr ""
+msgstr "Jeg har |$gambler[0].hand_text|. Det er |$player_bet| tur til at vise."
 
 #: Wesnoth_Holdem/scenarios/holdem-game.cfg:913
 #: Wesnoth_Holdem/scenarios/holdem-game.cfg:1141
 msgid "Fold"
-msgstr ""
+msgstr "Fold"
 
 #: Wesnoth_Holdem/scenarios/holdem-game.cfg:919
 msgid "Call |$player_bet|"
-msgstr ""
+msgstr "Vis |$player_bet|"
 
 #: Wesnoth_Holdem/scenarios/holdem-game.cfg:1095
 msgid "Bet |$random|"
-msgstr ""
+msgstr "Sats |$random|"
 
 #: Wesnoth_Holdem/scenarios/holdem-game.cfg:1099
 msgid "Raise |$random|"
-msgstr ""
+msgstr "Øg |$random|"
 
 #: Wesnoth_Holdem/scenarios/holdem-game.cfg:1121
 msgid "Call"
-msgstr ""
+msgstr "Vis"
 
 #: Wesnoth_Holdem/scenarios/holdem-intro.cfg:124
 msgid "King Theomund"
-msgstr ""
+msgstr "Kong Theomund"
 
 #: Wesnoth_Holdem/scenarios/holdem-intro.cfg:125
 msgid "Queen Edina"
-msgstr ""
+msgstr "Dronning Edina"
 
 #: Wesnoth_Holdem/scenarios/holdem-intro.cfg:159
 msgid ""
@@ -113,103 +128,118 @@ msgid ""
 "will take place at the north shore. The tournament will commence once "
 "everyone is seated. Good luck!"
 msgstr ""
+"Velkommen til den 4. Wesnoth Hold'em turnering. Første runde vil begynde på "
+"nordkysten. Turneringen starter når alle er klar. Held og lykke!"
 
 #: Wesnoth_Holdem/scenarios/holdem-round1.cfg:5
 msgid "Round 1 of 3"
-msgstr ""
+msgstr "Runde 1 af 3"
 
 #: Wesnoth_Holdem/scenarios/holdem-round1.cfg:42
 msgid "Good luck, everyone."
-msgstr ""
+msgstr "Held og lykke."
 
 #: Wesnoth_Holdem/scenarios/holdem-round2.cfg:5
 msgid "Round 2 of 3"
-msgstr ""
+msgstr "Runde 2 af 3"
 
+# Kommer vist an på konteksten om den er god
 #: Wesnoth_Holdem/scenarios/holdem-round2.cfg:47
 msgid "Hello, |$desc2|. I was hoping I'd get a chance to play against you."
-msgstr ""
+msgstr "Hej, |$desc2|. Kan jeg indbyde til et spil?"
 
 #: Wesnoth_Holdem/scenarios/holdem-round2.cfg:48
 msgid ""
 "There are a lot of skillful players here today. I barely qualified for this "
 "round."
 msgstr ""
+"Der er en lang række talentfulde spillere her i dag. Mine kvalifikationer er "
+"måske ikke gode nok til at fortsætte ved dette bord."
 
 #: Wesnoth_Holdem/scenarios/holdem-round3.cfg:5
 msgid "Round 3 of 3"
-msgstr ""
+msgstr "Runde 3 af 3"
 
 #: Wesnoth_Holdem/scenarios/holdem-round3.cfg:42
 msgid ""
 "Well done, Zilead and |$desc1|. You have defeated some of the best Hold'em "
 "players in Wesnoth. This is the final round. Good luck!"
 msgstr ""
+"Godt gået, Zilead og |$desc1|. Du har besejret nogle af de bedste Hold'em "
+"spillere i Wesnoth. Dette er den sidste runde. Held og lykke!"
 
 #: Wesnoth_Holdem/scenarios/holdem-round3.cfg:50
 msgid ""
 "Congratulations, Zilead! Let us go the banquet hall to celebrate your "
 "victory."
-msgstr ""
+msgstr "Tillykke, Zilead! Lad os fortrække til festsalen og hylde din sejr."
 
 #: Wesnoth_Holdem/scenarios/holdem-round3.cfg:54
 msgid ""
 "I am sorry, King Theomund, but I cannot stay. I must go to Blackwater to "
 "meet my family. They will be arriving before nightfall."
 msgstr ""
+"Desværre, kong Theomund, men jeg kan ikke blive. Jeg skal til Blackwater og "
+"møde min familie. De vil ankomme før solen går ned."
 
 #: Wesnoth_Holdem/scenarios/holdem-round3.cfg:58
 msgid "Well, then, I insist that you and your family..."
-msgstr ""
+msgstr "Nå sådan, jeg insisterer på at du og din familie..."
 
 #: Wesnoth_Holdem/scenarios/holdem-round3.cfg:66
 msgid "Anna"
-msgstr ""
+msgstr "Anna"
 
 #: Wesnoth_Holdem/scenarios/holdem-round3.cfg:75
 msgid "Zeke"
-msgstr ""
+msgstr "Zeke"
 
 #: Wesnoth_Holdem/scenarios/holdem-round3.cfg:81
 msgid "Father, we finally found you!"
-msgstr ""
+msgstr "Far, vi fandt dig endelig!"
 
 #: Wesnoth_Holdem/scenarios/holdem-round3.cfg:86
 msgid "Anna? Zeke? What the..."
-msgstr ""
+msgstr "Anna? Zeke? Hvad dælen..."
 
 #: Wesnoth_Holdem/scenarios/holdem-round3.cfg:91
 msgid "Papa, momma's in trouble! The galleon that we comma... commid..."
-msgstr ""
+msgstr "Far, mor har problemer! Galeonen som vi cher... char..."
 
 #: Wesnoth_Holdem/scenarios/holdem-round3.cfg:96
 msgid "Commandeered?"
-msgstr ""
+msgstr "Chartrede?"
 
 #: Wesnoth_Holdem/scenarios/holdem-round3.cfg:101
 msgid ""
 "The galleon that we commandeered was attacked by witches just after we left "
 "Eliador. They took momma and told us to fly to Wesnoth to find you."
 msgstr ""
+"Galeonen vi chartrede, blev angrebet af hekse lige efter vi forlod Eliador. "
+"De tog mor og sagde, at vi skulle tage til Wesnoth for at finde dig."
 
 #: Wesnoth_Holdem/scenarios/holdem-round3.cfg:106
 msgid "They said they'd be waiting for you in Akhban."
-msgstr ""
+msgstr "De sagde at de vil vente på dig i Akhban."
 
 #: Wesnoth_Holdem/scenarios/holdem-round3.cfg:111
 msgid "Witches? Ha! Your boy has quite an imagination."
-msgstr ""
+msgstr "Hekse? Ha! Din søn har noget af en fantasi."
 
 #: Wesnoth_Holdem/scenarios/holdem-round3.cfg:116
 msgid ""
 "I seem to recall Randalf mentioning something about a witch named Ursula..."
 msgstr ""
+"Jeg mindes at huske at Randalf nævnte noget om en heks ved navn Ursula..."
 
 #: Wesnoth_Holdem/scenarios/holdem-round3.cfg:121
 msgid ""
 "Ursula's the witch who tried to invade Eliador... but we killed her. Now we "
 "must go to Akhban to kill all the other witches and save momma!"
 msgstr ""
+"Ursula er den heks som forsøgte at erobre Eliador... men vi slog hende "
+"ihjel. Nu må vi tage til Akhban og dræbe de øvrige hekse så mor bliver "
+"reddet!"
 
 #: Wesnoth_Holdem/scenarios/holdem-round3.cfg:126
 msgid ""
@@ -217,452 +247,456 @@ msgid ""
 "these so-called witches. In the meantime, you and your children will stay "
 "here with me."
 msgstr ""
+"Zilead, jeg sender en flåde til Akhban. Mine folk vil redde Ardella fra "
+"disse såkaldte hekse. I mellemtiden bliver du og dine børn her hos mig."
 
 #: Wesnoth_Holdem/scenarios/holdem-round3.cfg:131
 msgid ""
 "I graciously accept your help, King Theomund, but I must accompany your men."
 msgstr ""
+"Jeg modtager med stor tak din hjælp, kong Theomund, men jeg ønsker at følges "
+"med dine mænd."
 
 #: Wesnoth_Holdem/scenarios/holdem-round3.cfg:136
 msgid "So must I!"
-msgstr ""
+msgstr "Også mig!"
 
 #: Wesnoth_Holdem/scenarios/holdem-round3.cfg:141
 msgid "Me too!"
-msgstr ""
+msgstr "Og mig!"
 
 #: Wesnoth_Holdem/units/Ace_Clubs.cfg:4
 msgid "Ace Clubs"
-msgstr ""
+msgstr "Klør es"
 
 #: Wesnoth_Holdem/units/Ace_Clubs.cfg:15
 msgid "Ace of Clubs"
-msgstr ""
+msgstr "Klør es"
 
 #: Wesnoth_Holdem/units/Ace_Diamonds.cfg:4
 msgid "Ace Diamonds"
-msgstr ""
+msgstr "Ruder es"
 
 #: Wesnoth_Holdem/units/Ace_Diamonds.cfg:15
 msgid "Ace of Diamonds"
-msgstr ""
+msgstr "Ruder es"
 
 #: Wesnoth_Holdem/units/Ace_Hearts.cfg:4
 msgid "Ace Hearts"
-msgstr ""
+msgstr "Hjerter es"
 
 #: Wesnoth_Holdem/units/Ace_Hearts.cfg:15
 msgid "Ace of Hearts"
-msgstr ""
+msgstr "Hjerter es"
 
 #: Wesnoth_Holdem/units/Ace_Spades.cfg:4
 msgid "Ace Spades"
-msgstr ""
+msgstr "Spar es"
 
 #: Wesnoth_Holdem/units/Ace_Spades.cfg:15
 msgid "Ace of Spades"
-msgstr ""
+msgstr "Spar es"
 
 #: Wesnoth_Holdem/units/Eight_Clubs.cfg:4
 msgid "Eight Clubs"
-msgstr ""
+msgstr "Klør otte"
 
 #: Wesnoth_Holdem/units/Eight_Clubs.cfg:15
 msgid "Eight of Clubs"
-msgstr ""
+msgstr "Klør otte"
 
 #: Wesnoth_Holdem/units/Eight_Diamonds.cfg:4
 msgid "Eight Diamonds"
-msgstr ""
+msgstr "Ruder otte"
 
 #: Wesnoth_Holdem/units/Eight_Diamonds.cfg:15
 msgid "Eight of Diamonds"
-msgstr ""
+msgstr "Ruder otte"
 
 #: Wesnoth_Holdem/units/Eight_Hearts.cfg:4
 msgid "Eight Hearts"
-msgstr ""
+msgstr "Hjerter otte"
 
 #: Wesnoth_Holdem/units/Eight_Hearts.cfg:15
 msgid "Eight of Hearts"
-msgstr ""
+msgstr "Hjerter otte"
 
 #: Wesnoth_Holdem/units/Eight_Spades.cfg:4
 msgid "Eight Spades"
-msgstr ""
+msgstr "Spar otte"
 
 #: Wesnoth_Holdem/units/Eight_Spades.cfg:15
 msgid "Eight of Spades"
-msgstr ""
+msgstr "Spar otte"
 
 #: Wesnoth_Holdem/units/Five_Clubs.cfg:4
 msgid "Five Clubs"
-msgstr ""
+msgstr "Klør fem"
 
 #: Wesnoth_Holdem/units/Five_Clubs.cfg:15
 msgid "Five of Clubs"
-msgstr ""
+msgstr "Klør fem"
 
 #: Wesnoth_Holdem/units/Five_Diamonds.cfg:4
 msgid "Five Diamonds"
-msgstr ""
+msgstr "Ruder fem"
 
 #: Wesnoth_Holdem/units/Five_Diamonds.cfg:15
 msgid "Five of Diamonds"
-msgstr ""
+msgstr "Ruder fem"
 
 #: Wesnoth_Holdem/units/Five_Hearts.cfg:4
 msgid "Five Hearts"
-msgstr ""
+msgstr "Hjerter fem"
 
 #: Wesnoth_Holdem/units/Five_Hearts.cfg:15
 msgid "Five of Hearts"
-msgstr ""
+msgstr "Hjerter fem"
 
 #: Wesnoth_Holdem/units/Five_Spades.cfg:4
 msgid "Five Spades"
-msgstr ""
+msgstr "Spar fem"
 
 #: Wesnoth_Holdem/units/Five_Spades.cfg:15
 msgid "Five of Spades"
-msgstr ""
+msgstr "Spar fem"
 
 #: Wesnoth_Holdem/units/Four_Clubs.cfg:4
 msgid "Four Clubs"
-msgstr ""
+msgstr "Klør fire"
 
 #: Wesnoth_Holdem/units/Four_Clubs.cfg:15
 msgid "Four of Clubs"
-msgstr ""
+msgstr "Klør fire"
 
 #: Wesnoth_Holdem/units/Four_Diamonds.cfg:4
 msgid "Four Diamonds"
-msgstr ""
+msgstr "Ruder fire"
 
 #: Wesnoth_Holdem/units/Four_Diamonds.cfg:15
 msgid "Four of Diamonds"
-msgstr ""
+msgstr "Ruder fire"
 
 #: Wesnoth_Holdem/units/Four_Hearts.cfg:4
 msgid "Four Hearts"
-msgstr ""
+msgstr "Hjerter fire"
 
 #: Wesnoth_Holdem/units/Four_Hearts.cfg:15
 msgid "Four of Hearts"
-msgstr ""
+msgstr "Hjerter fire"
 
 #: Wesnoth_Holdem/units/Four_Spades.cfg:4
 msgid "Four Spades"
-msgstr ""
+msgstr "Spar fire"
 
 #: Wesnoth_Holdem/units/Four_Spades.cfg:15
 msgid "Four of Spades"
-msgstr ""
+msgstr "Spar fire"
 
 #: Wesnoth_Holdem/units/Gryphon_Rider_Kid.cfg:4
 msgid "Gryphon Kid"
-msgstr ""
+msgstr "Grifunge"
 
 #: Wesnoth_Holdem/units/Gryphon_Rider_Kid.cfg:18
 msgid "An outlaw princess kid riding a gryphon."
-msgstr ""
+msgstr "En lovløs prins' søn ridende på en grif."
 
 #: Wesnoth_Holdem/units/Gryphon_Rider_Toddler.cfg:4
 msgid "Gryphon Toddler"
-msgstr ""
+msgstr "Buksetroldgrif"
 
 #: Wesnoth_Holdem/units/Gryphon_Rider_Toddler.cfg:18
 msgid "A footpad toddler riding a gryphon."
-msgstr ""
+msgstr "En landevejsbuksetroldstyv ridende en grif."
 
 #: Wesnoth_Holdem/units/Holdem_Horse.cfg:18
 msgid "A horse carrying sacs of gold."
-msgstr ""
+msgstr "En hest der bærer sække med guld."
 
 #: Wesnoth_Holdem/units/Jack_Clubs.cfg:4
 msgid "Jack Clubs"
-msgstr ""
+msgstr "Klør knægt"
 
 #: Wesnoth_Holdem/units/Jack_Clubs.cfg:15
 msgid "Jack of Clubs"
-msgstr ""
+msgstr "Klør knægt"
 
 #: Wesnoth_Holdem/units/Jack_Diamonds.cfg:4
 msgid "Jack Diamonds"
-msgstr ""
+msgstr "Ruder knægt"
 
 #: Wesnoth_Holdem/units/Jack_Diamonds.cfg:15
 msgid "Jack of Diamonds"
-msgstr ""
+msgstr "Ruder knægt"
 
 #: Wesnoth_Holdem/units/Jack_Hearts.cfg:4
 msgid "Jack Hearts"
-msgstr ""
+msgstr "Hjerter knægt"
 
 #: Wesnoth_Holdem/units/Jack_Hearts.cfg:15
 msgid "Jack of Hearts"
-msgstr ""
+msgstr "Hjerter knægt"
 
 #: Wesnoth_Holdem/units/Jack_Spades.cfg:4
 msgid "Jack Spades"
-msgstr ""
+msgstr "Spar knægt"
 
 #: Wesnoth_Holdem/units/Jack_Spades.cfg:15
 msgid "Jack of Spades"
-msgstr ""
+msgstr "Spar knægt"
 
 #: Wesnoth_Holdem/units/King_Clubs.cfg:4
 msgid "King Clubs"
-msgstr ""
+msgstr "Klør konge"
 
 #: Wesnoth_Holdem/units/King_Clubs.cfg:15
 msgid "King of Clubs"
-msgstr ""
+msgstr "Klør konge"
 
 #: Wesnoth_Holdem/units/King_Diamonds.cfg:4
 msgid "King Diamonds"
-msgstr ""
+msgstr "Ruder konge"
 
 #: Wesnoth_Holdem/units/King_Diamonds.cfg:15
 msgid "King of Diamonds"
-msgstr ""
+msgstr "Ruder konge"
 
 #: Wesnoth_Holdem/units/King_Hearts.cfg:4
 msgid "King Hearts"
-msgstr ""
+msgstr "Hjerter konge"
 
 #: Wesnoth_Holdem/units/King_Hearts.cfg:15
 msgid "King of Hearts"
-msgstr ""
+msgstr "Hjerter konge"
 
 #: Wesnoth_Holdem/units/King_Spades.cfg:4
 msgid "King Spades"
-msgstr ""
+msgstr "Spar konge"
 
 #: Wesnoth_Holdem/units/King_Spades.cfg:15
 msgid "King of Spades"
-msgstr ""
+msgstr "Spar konge"
 
 #: Wesnoth_Holdem/units/Nine_Clubs.cfg:4
 msgid "Nine Clubs"
-msgstr ""
+msgstr "Klør ni"
 
 #: Wesnoth_Holdem/units/Nine_Clubs.cfg:15
 msgid "Nine of Clubs"
-msgstr ""
+msgstr "Klør ni"
 
 #: Wesnoth_Holdem/units/Nine_Diamonds.cfg:4
 msgid "Nine Diamonds"
-msgstr ""
+msgstr "Ruder ni"
 
 #: Wesnoth_Holdem/units/Nine_Diamonds.cfg:15
 msgid "Nine of Diamonds"
-msgstr ""
+msgstr "Ruder ni"
 
 #: Wesnoth_Holdem/units/Nine_Hearts.cfg:4
 msgid "Nine Hearts"
-msgstr ""
+msgstr "Hjerter ni"
 
 #: Wesnoth_Holdem/units/Nine_Hearts.cfg:15
 msgid "Nine of Hearts"
-msgstr ""
+msgstr "Hjerter ni"
 
 #: Wesnoth_Holdem/units/Nine_Spades.cfg:4
 msgid "Nine Spades"
-msgstr ""
+msgstr "Spar ni"
 
 #: Wesnoth_Holdem/units/Nine_Spades.cfg:15
 msgid "Nine of Spades"
-msgstr ""
+msgstr "Spar ni"
 
 #: Wesnoth_Holdem/units/Queen_Clubs.cfg:4
 msgid "Queen Clubs"
-msgstr ""
+msgstr "Klør dame"
 
 #: Wesnoth_Holdem/units/Queen_Clubs.cfg:15
 msgid "Queen of Clubs"
-msgstr ""
+msgstr "Klør dame"
 
 #: Wesnoth_Holdem/units/Queen_Diamonds.cfg:4
 msgid "Queen Diamonds"
-msgstr ""
+msgstr "Ruder dame"
 
 #: Wesnoth_Holdem/units/Queen_Diamonds.cfg:15
 msgid "Queen of Diamonds"
-msgstr ""
+msgstr "Ruder dame"
 
 #: Wesnoth_Holdem/units/Queen_Hearts.cfg:4
 msgid "Queen Hearts"
-msgstr ""
+msgstr "Hjerter dame"
 
 #: Wesnoth_Holdem/units/Queen_Hearts.cfg:15
 msgid "Queen of Hearts"
-msgstr ""
+msgstr "Hjerter dame"
 
 #: Wesnoth_Holdem/units/Queen_Spades.cfg:4
 msgid "Queen Spades"
-msgstr ""
+msgstr "Spar dame"
 
 #: Wesnoth_Holdem/units/Queen_Spades.cfg:15
 msgid "Queen of Spades"
-msgstr ""
+msgstr "Spar dame"
 
 #: Wesnoth_Holdem/units/Seven_Clubs.cfg:4
 msgid "Seven Clubs"
-msgstr ""
+msgstr "Klør syv"
 
 #: Wesnoth_Holdem/units/Seven_Clubs.cfg:15
 msgid "Seven of Clubs"
-msgstr ""
+msgstr "Klør syv"
 
 #: Wesnoth_Holdem/units/Seven_Diamonds.cfg:4
 msgid "Seven Diamonds"
-msgstr ""
+msgstr "Ruder syv"
 
 #: Wesnoth_Holdem/units/Seven_Diamonds.cfg:15
 msgid "Seven of Diamonds"
-msgstr ""
+msgstr "Ruder syv"
 
 #: Wesnoth_Holdem/units/Seven_Hearts.cfg:4
 msgid "Seven Hearts"
-msgstr ""
+msgstr "Hjerter syv"
 
 #: Wesnoth_Holdem/units/Seven_Hearts.cfg:15
 msgid "Seven of Hearts"
-msgstr ""
+msgstr "Hjerter syv"
 
 #: Wesnoth_Holdem/units/Seven_Spades.cfg:4
 msgid "Seven Spades"
-msgstr ""
+msgstr "Spar syv"
 
 #: Wesnoth_Holdem/units/Seven_Spades.cfg:15
 msgid "Seven of Spades"
-msgstr ""
+msgstr "Spar syv"
 
 #: Wesnoth_Holdem/units/Six_Clubs.cfg:4
 msgid "Six Clubs"
-msgstr ""
+msgstr "Klør seks"
 
 #: Wesnoth_Holdem/units/Six_Clubs.cfg:15
 msgid "Six of Clubs"
-msgstr ""
+msgstr "Klør seks"
 
 #: Wesnoth_Holdem/units/Six_Diamonds.cfg:4
 msgid "Six Diamonds"
-msgstr ""
+msgstr "Ruder seks"
 
 #: Wesnoth_Holdem/units/Six_Diamonds.cfg:15
 msgid "Six of Diamonds"
-msgstr ""
+msgstr "Ruder seks"
 
 #: Wesnoth_Holdem/units/Six_Hearts.cfg:4
 msgid "Six Hearts"
-msgstr ""
+msgstr "Hjerter seks"
 
 #: Wesnoth_Holdem/units/Six_Hearts.cfg:15
 msgid "Six of Hearts"
-msgstr ""
+msgstr "Hjerter seks"
 
 #: Wesnoth_Holdem/units/Six_Spades.cfg:4
 msgid "Six Spades"
-msgstr ""
+msgstr "Spar seks"
 
 #: Wesnoth_Holdem/units/Six_Spades.cfg:15
 msgid "Six of Spades"
-msgstr ""
+msgstr "Spar seks"
 
 #: Wesnoth_Holdem/units/Ten_Clubs.cfg:4
 msgid "Ten Clubs"
-msgstr ""
+msgstr "Klør ti"
 
 #: Wesnoth_Holdem/units/Ten_Clubs.cfg:15
 msgid "Ten of Clubs"
-msgstr ""
+msgstr "Klør ti"
 
 #: Wesnoth_Holdem/units/Ten_Diamonds.cfg:4
 msgid "Ten Diamonds"
-msgstr ""
+msgstr "Ruder ti"
 
 #: Wesnoth_Holdem/units/Ten_Diamonds.cfg:15
 msgid "Ten of Diamonds"
-msgstr ""
+msgstr "Ruder ti"
 
 #: Wesnoth_Holdem/units/Ten_Hearts.cfg:4
 msgid "Ten Hearts"
-msgstr ""
+msgstr "Hjerter ti"
 
 #: Wesnoth_Holdem/units/Ten_Hearts.cfg:15
 msgid "Ten of Hearts"
-msgstr ""
+msgstr "Hjerter ti"
 
 #: Wesnoth_Holdem/units/Ten_Spades.cfg:4
 msgid "Ten Spades"
-msgstr ""
+msgstr "Spar ti"
 
 #: Wesnoth_Holdem/units/Ten_Spades.cfg:15
 msgid "Ten of Spades"
-msgstr ""
+msgstr "Spar ti"
 
 #: Wesnoth_Holdem/units/Three_Clubs.cfg:4
 msgid "Three Clubs"
-msgstr ""
+msgstr "Klør tre"
 
 #: Wesnoth_Holdem/units/Three_Clubs.cfg:15
 msgid "Three of Clubs"
-msgstr ""
+msgstr "Klør tre"
 
 #: Wesnoth_Holdem/units/Three_Diamonds.cfg:4
 msgid "Three Diamonds"
-msgstr ""
+msgstr "Ruder tre"
 
 #: Wesnoth_Holdem/units/Three_Diamonds.cfg:15
 msgid "Three of Diamonds"
-msgstr ""
+msgstr "Ruder tre"
 
 #: Wesnoth_Holdem/units/Three_Hearts.cfg:4
 msgid "Three Hearts"
-msgstr ""
+msgstr "Hjerter tre"
 
 #: Wesnoth_Holdem/units/Three_Hearts.cfg:15
 msgid "Three of Hearts"
-msgstr ""
+msgstr "Hjerter tre"
 
 #: Wesnoth_Holdem/units/Three_Spades.cfg:4
 msgid "Three Spades"
-msgstr ""
+msgstr "Spar tre"
 
 #: Wesnoth_Holdem/units/Three_Spades.cfg:15
 msgid "Three of Spades"
-msgstr ""
+msgstr "Spar tre"
 
 #: Wesnoth_Holdem/units/Two_Clubs.cfg:4
 msgid "Two Clubs"
-msgstr ""
+msgstr "Klør to"
 
 #: Wesnoth_Holdem/units/Two_Clubs.cfg:15
 msgid "Two of Clubs"
-msgstr ""
+msgstr "Klør to"
 
 #: Wesnoth_Holdem/units/Two_Diamonds.cfg:4
 msgid "Two Diamonds"
-msgstr ""
+msgstr "Ruder to"
 
 #: Wesnoth_Holdem/units/Two_Diamonds.cfg:15
 msgid "Two of Diamonds"
-msgstr ""
+msgstr "Ruder to"
 
 #: Wesnoth_Holdem/units/Two_Hearts.cfg:4
 msgid "Two Hearts"
-msgstr ""
+msgstr "Hjerter to"
 
 #: Wesnoth_Holdem/units/Two_Hearts.cfg:15
 msgid "Two of Hearts"
-msgstr ""
+msgstr "Hjerter to"
 
 #: Wesnoth_Holdem/units/Two_Spades.cfg:4
 msgid "Two Spades"
-msgstr ""
+msgstr "Spar to"
 
 #: Wesnoth_Holdem/units/Two_Spades.cfg:15
 msgid "Two of Spades"
-msgstr ""
+msgstr "Spar to"
